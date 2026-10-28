@@ -1,0 +1,177 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="lk.craftkart.pos.debug"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:5:5-65
+11-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:5:22-62
+12    <uses-permission
+12-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:6:5-107
+13        android:name="android.permission.READ_EXTERNAL_STORAGE"
+13-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:6:22-77
+14        android:maxSdkVersion="32" />
+14-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:6:78-104
+15    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+15-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:7:5-76
+15-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:7:22-73
+16
+17    <permission
+17-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\7c7d23c171450a8ee79196e2e86a07d7\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+18        android:name="lk.craftkart.pos.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\7c7d23c171450a8ee79196e2e86a07d7\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\7c7d23c171450a8ee79196e2e86a07d7\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="lk.craftkart.pos.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\7c7d23c171450a8ee79196e2e86a07d7\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\7c7d23c171450a8ee79196e2e86a07d7\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:9:5-38:19
+24        android:name="lk.craftkart.pos.CraftKartApp"
+24-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:10:9-37
+25        android:allowBackup="true"
+25-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:11:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\7c7d23c171450a8ee79196e2e86a07d7\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:icon="@mipmap/ic_launcher"
+29-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:12:9-43
+30        android:label="@string/app_name"
+30-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:14:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:13:9-54
+32        android:supportsRtl="true"
+32-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:15:9-35
+33        android:theme="@style/Theme.CraftKart" >
+33-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:16:9-47
+34        <activity
+34-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:18:9-27:20
+35            android:name="lk.craftkart.pos.MainActivity"
+35-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:19:13-41
+36            android:configChanges="locale|layoutDirection"
+36-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:21:13-59
+37            android:exported="true"
+37-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:20:13-36
+38            android:windowSoftInputMode="adjustResize" >
+38-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:22:13-55
+39            <intent-filter>
+39-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:23:13-26:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:24:17-69
+40-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:24:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:25:17-77
+42-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:25:27-74
+43            </intent-filter>
+44        </activity>
+45
+46        <provider
+47            android:name="androidx.core.content.FileProvider"
+47-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:30:13-62
+48            android:authorities="lk.craftkart.pos.debug.fileprovider"
+48-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:31:13-64
+49            android:exported="false"
+49-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:32:13-37
+50            android:grantUriPermissions="true" >
+50-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:33:13-47
+51            <meta-data
+51-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:34:13-36:54
+52                android:name="android.support.FILE_PROVIDER_PATHS"
+52-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:35:17-67
+53                android:resource="@xml/file_paths" />
+53-->E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\AndroidManifest.xml:36:17-51
+54        </provider>
+55
+56        <activity
+56-->[androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Nwick\.gradle\caches\8.9\transforms\481bf8c5dd0842f97189397aa0b44991\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+57            android:name="androidx.compose.ui.tooling.PreviewActivity"
+57-->[androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Nwick\.gradle\caches\8.9\transforms\481bf8c5dd0842f97189397aa0b44991\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+58            android:exported="true" />
+58-->[androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Nwick\.gradle\caches\8.9\transforms\481bf8c5dd0842f97189397aa0b44991\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+59
+60        <provider
+60-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\0c6ca0d5a32c3f2e4d59e75e274063d7\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+61            android:name="androidx.startup.InitializationProvider"
+61-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\0c6ca0d5a32c3f2e4d59e75e274063d7\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+62            android:authorities="lk.craftkart.pos.debug.androidx-startup"
+62-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\0c6ca0d5a32c3f2e4d59e75e274063d7\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+63            android:exported="false" >
+63-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\0c6ca0d5a32c3f2e4d59e75e274063d7\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+64            <meta-data
+64-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\0c6ca0d5a32c3f2e4d59e75e274063d7\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+65-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\0c6ca0d5a32c3f2e4d59e75e274063d7\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+66                android:value="androidx.startup" />
+66-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\0c6ca0d5a32c3f2e4d59e75e274063d7\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+67            <meta-data
+67-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Nwick\.gradle\caches\8.9\transforms\0652f572d1039d53d6afe009709eac06\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+68                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Nwick\.gradle\caches\8.9\transforms\0652f572d1039d53d6afe009709eac06\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+69                android:value="androidx.startup" />
+69-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Nwick\.gradle\caches\8.9\transforms\0652f572d1039d53d6afe009709eac06\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+70            <meta-data
+70-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+71-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+72                android:value="androidx.startup" />
+72-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+73        </provider>
+74
+75        <service
+75-->[androidx.room:room-runtime:2.6.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\14fb7c352afb2dd1a0e42107cc0018d9\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+76            android:name="androidx.room.MultiInstanceInvalidationService"
+76-->[androidx.room:room-runtime:2.6.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\14fb7c352afb2dd1a0e42107cc0018d9\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+77            android:directBootAware="true"
+77-->[androidx.room:room-runtime:2.6.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\14fb7c352afb2dd1a0e42107cc0018d9\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+78            android:exported="false" />
+78-->[androidx.room:room-runtime:2.6.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\14fb7c352afb2dd1a0e42107cc0018d9\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+79
+80        <receiver
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+81            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+82            android:directBootAware="false"
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+83            android:enabled="true"
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+84            android:exported="true"
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+85            android:permission="android.permission.DUMP" >
+85-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+87                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+90                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+91            </intent-filter>
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+93                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+94            </intent-filter>
+95            <intent-filter>
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+96                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+97            </intent-filter>
+98        </receiver>
+99    </application>
+100
+101</manifest>

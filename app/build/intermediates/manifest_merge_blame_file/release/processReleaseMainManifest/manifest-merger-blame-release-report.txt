@@ -1,0 +1,221 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="lk.craftkart.pos"
+4    android:versionCode="7"
+5    android:versionName="1.4.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:5:5-65
+11-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:5:22-62
+12    <uses-permission
+12-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:6:5-107
+13        android:name="android.permission.READ_EXTERNAL_STORAGE"
+13-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:6:22-77
+14        android:maxSdkVersion="32" />
+14-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:6:78-104
+15    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+15-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:7:5-76
+15-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:7:22-73
+16
+17    <permission
+17-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\39860f8b2596e1d05cb833cc34cc5941\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+18        android:name="lk.craftkart.pos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\39860f8b2596e1d05cb833cc34cc5941\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\39860f8b2596e1d05cb833cc34cc5941\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="lk.craftkart.pos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+21-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\39860f8b2596e1d05cb833cc34cc5941\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\39860f8b2596e1d05cb833cc34cc5941\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+22    <uses-feature
+22-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+23        android:name="android.hardware.camera"
+23-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:26:9-47
+24        android:required="false" />
+24-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:27:9-33
+25    <uses-feature
+25-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:28:5-30:36
+26        android:name="android.hardware.camera.front"
+26-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:29:9-53
+27        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+27-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:30:9-33
+28    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+29    <uses-feature
+29-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:33:5-35:36
+30        android:name="android.hardware.camera.autofocus"
+30-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:34:9-57
+31        android:required="false" />
+31-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:35:9-33
+32    <uses-feature
+32-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:36:5-38:36
+33        android:name="android.hardware.camera.flash"
+33-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:37:9-53
+34        android:required="false" />
+34-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:38:9-33
+35    <uses-feature
+35-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:39:5-41:36
+36        android:name="android.hardware.screen.landscape"
+36-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:40:9-57
+37        android:required="false" />
+37-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:41:9-33
+38    <uses-feature
+38-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:42:5-44:36
+39        android:name="android.hardware.wifi"
+39-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:43:9-45
+40        android:required="false" />
+40-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
+41
+42    <application
+42-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:9:5-45:19
+43        android:name="lk.craftkart.pos.CraftKartApp"
+43-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:10:9-37
+44        android:allowBackup="true"
+44-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:11:9-35
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.15.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\39860f8b2596e1d05cb833cc34cc5941\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+46        android:extractNativeLibs="false"
+47        android:icon="@mipmap/ic_launcher"
+47-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:12:9-43
+48        android:label="@string/app_name"
+48-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:14:9-41
+49        android:roundIcon="@mipmap/ic_launcher_round"
+49-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:13:9-54
+50        android:supportsRtl="true"
+50-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:15:9-35
+51        android:theme="@style/Theme.CraftKart" >
+51-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:16:9-47
+52        <activity
+52-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:18:9-27:20
+53            android:name="lk.craftkart.pos.MainActivity"
+53-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:19:13-41
+54            android:configChanges="locale|layoutDirection"
+54-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:21:13-59
+55            android:exported="true"
+55-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:20:13-36
+56            android:windowSoftInputMode="adjustResize" >
+56-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:22:13-55
+57            <intent-filter>
+57-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:23:13-26:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:24:17-69
+58-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:24:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:25:17-77
+60-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:25:27-74
+61            </intent-filter>
+62        </activity>
+63        <activity
+63-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:29:9-34:57
+64            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+64-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:30:13-74
+65            android:clearTaskOnLaunch="true"
+65-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+66            android:exported="false"
+66-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:32:13-37
+67            android:screenOrientation="portrait"
+67-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:31:13-49
+68            android:stateNotNeeded="true"
+68-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+69            android:theme="@style/zxing_CaptureTheme"
+69-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:33:13-54
+70            android:windowSoftInputMode="stateAlwaysHidden" />
+70-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\6bfa7b48d0da0446ca235a094f3ff8f5\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+71
+72        <provider
+73            android:name="androidx.core.content.FileProvider"
+73-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:37:13-62
+74            android:authorities="lk.craftkart.pos.fileprovider"
+74-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:38:13-64
+75            android:exported="false"
+75-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:39:13-37
+76            android:grantUriPermissions="true" >
+76-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:40:13-47
+77            <meta-data
+77-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:41:13-43:54
+78                android:name="android.support.FILE_PROVIDER_PATHS"
+78-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:42:17-67
+79                android:resource="@xml/file_paths" />
+79-->E:\AIprojects\Safety App\Android Apps\CraftKart\app\src\main\AndroidManifest.xml:43:17-51
+80        </provider>
+81        <provider
+81-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\629a4eba2bf4935985efe062ea377205\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+82            android:name="androidx.startup.InitializationProvider"
+82-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\629a4eba2bf4935985efe062ea377205\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+83            android:authorities="lk.craftkart.pos.androidx-startup"
+83-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\629a4eba2bf4935985efe062ea377205\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+84            android:exported="false" >
+84-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\629a4eba2bf4935985efe062ea377205\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+85            <meta-data
+85-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\629a4eba2bf4935985efe062ea377205\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+86                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+86-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\629a4eba2bf4935985efe062ea377205\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+87                android:value="androidx.startup" />
+87-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Nwick\.gradle\caches\8.9\transforms\629a4eba2bf4935985efe062ea377205\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+88            <meta-data
+88-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Nwick\.gradle\caches\8.9\transforms\c80aae00b4d8f4fe70cd53c4793a4c61\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+89                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+89-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Nwick\.gradle\caches\8.9\transforms\c80aae00b4d8f4fe70cd53c4793a4c61\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+90                android:value="androidx.startup" />
+90-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Nwick\.gradle\caches\8.9\transforms\c80aae00b4d8f4fe70cd53c4793a4c61\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+91            <meta-data
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+92                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+93                android:value="androidx.startup" />
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+94        </provider>
+95
+96        <service
+96-->[androidx.room:room-runtime:2.6.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\704d2c77e4d9b4e2256b9808e4abaac4\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+97            android:name="androidx.room.MultiInstanceInvalidationService"
+97-->[androidx.room:room-runtime:2.6.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\704d2c77e4d9b4e2256b9808e4abaac4\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+98            android:directBootAware="true"
+98-->[androidx.room:room-runtime:2.6.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\704d2c77e4d9b4e2256b9808e4abaac4\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+99            android:exported="false" />
+99-->[androidx.room:room-runtime:2.6.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\704d2c77e4d9b4e2256b9808e4abaac4\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+100
+101        <receiver
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+102            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+103            android:directBootAware="false"
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+104            android:enabled="true"
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+105            android:exported="true"
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+106            android:permission="android.permission.DUMP" >
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+108                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+109            </intent-filter>
+110            <intent-filter>
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+111                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+112            </intent-filter>
+113            <intent-filter>
+113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+114                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+115            </intent-filter>
+116            <intent-filter>
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+117                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Nwick\.gradle\caches\8.9\transforms\3a47398b8523b2cd26b7ac8545171403\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+118            </intent-filter>
+119        </receiver>
+120    </application>
+121
+122</manifest>

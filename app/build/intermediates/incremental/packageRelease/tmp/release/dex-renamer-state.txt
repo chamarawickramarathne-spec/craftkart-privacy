@@ -1,0 +1,4 @@
+#Wed Aug 12 02:14:42 IST 2026
+base.0=E\:\\AIprojects\\Safety App\\Android Apps\\CraftKart\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

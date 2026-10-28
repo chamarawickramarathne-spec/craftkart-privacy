@@ -1,0 +1,61 @@
+lk.craftkart.pos.app-runtime-release-0 C:\Users\Nwick\.gradle\caches\8.9\transforms\0029a7b770312d196f9cc618732168e1\transformed\runtime-release\res
+lk.craftkart.pos.app-navigation-common-2.8.5-1 C:\Users\Nwick\.gradle\caches\8.9\transforms\01a057a8d46d44324f5bbf09c7896e28\transformed\navigation-common-2.8.5\res
+lk.craftkart.pos.app-lifecycle-process-2.8.7-2 C:\Users\Nwick\.gradle\caches\8.9\transforms\0652f572d1039d53d6afe009709eac06\transformed\lifecycle-process-2.8.7\res
+lk.craftkart.pos.app-emoji2-1.3.0-3 C:\Users\Nwick\.gradle\caches\8.9\transforms\0c6ca0d5a32c3f2e4d59e75e274063d7\transformed\emoji2-1.3.0\res
+lk.craftkart.pos.app-room-runtime-2.6.1-4 C:\Users\Nwick\.gradle\caches\8.9\transforms\14fb7c352afb2dd1a0e42107cc0018d9\transformed\room-runtime-2.6.1\res
+lk.craftkart.pos.app-savedstate-1.2.1-5 C:\Users\Nwick\.gradle\caches\8.9\transforms\18cddd3c530b141e3155bda715f7c347\transformed\savedstate-1.2.1\res
+lk.craftkart.pos.app-runtime-saveable-release-6 C:\Users\Nwick\.gradle\caches\8.9\transforms\1a11c5426e13b0731b21f7148b9f7bce\transformed\runtime-saveable-release\res
+lk.craftkart.pos.app-lifecycle-viewmodel-release-7 C:\Users\Nwick\.gradle\caches\8.9\transforms\1d51fbc74d080b67efb9fadc65f49e91\transformed\lifecycle-viewmodel-release\res
+lk.craftkart.pos.app-customview-poolingcontainer-1.0.0-8 C:\Users\Nwick\.gradle\caches\8.9\transforms\20ccce8b84d9505f666d3ec3c763bcb6\transformed\customview-poolingcontainer-1.0.0\res
+lk.craftkart.pos.app-tracing-1.2.0-9 C:\Users\Nwick\.gradle\caches\8.9\transforms\20cdf7640baaddb52d6b74022d88fbcb\transformed\tracing-1.2.0\res
+lk.craftkart.pos.app-core-ktx-1.15.0-10 C:\Users\Nwick\.gradle\caches\8.9\transforms\20f8138f80e5a15ddb01c9b5fe734f1d\transformed\core-ktx-1.15.0\res
+lk.craftkart.pos.app-savedstate-ktx-1.2.1-11 C:\Users\Nwick\.gradle\caches\8.9\transforms\23d4936ae5b9bff8112d7f4965fc05b5\transformed\savedstate-ktx-1.2.1\res
+lk.craftkart.pos.app-lifecycle-viewmodel-savedstate-2.8.7-12 C:\Users\Nwick\.gradle\caches\8.9\transforms\259143909a35df6cd0bcfdcbb822f417\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+lk.craftkart.pos.app-foundation-release-13 C:\Users\Nwick\.gradle\caches\8.9\transforms\2d194eb599ee61de488f820400d1c31a\transformed\foundation-release\res
+lk.craftkart.pos.app-ui-tooling-release-14 C:\Users\Nwick\.gradle\caches\8.9\transforms\481bf8c5dd0842f97189397aa0b44991\transformed\ui-tooling-release\res
+lk.craftkart.pos.app-ui-text-release-15 C:\Users\Nwick\.gradle\caches\8.9\transforms\492aa5fc41ef8ac3d1205ebff419e9a2\transformed\ui-text-release\res
+lk.craftkart.pos.app-lifecycle-runtime-release-16 C:\Users\Nwick\.gradle\caches\8.9\transforms\4aefedd59040b61e51472058fa9673e2\transformed\lifecycle-runtime-release\res
+lk.craftkart.pos.app-startup-runtime-1.1.1-17 C:\Users\Nwick\.gradle\caches\8.9\transforms\4b58bfc18f151316a4ff9d3a1d79f557\transformed\startup-runtime-1.1.1\res
+lk.craftkart.pos.app-activity-1.9.3-18 C:\Users\Nwick\.gradle\caches\8.9\transforms\4bf266bc3298b8310cd9e909f9e7f47b\transformed\activity-1.9.3\res
+lk.craftkart.pos.app-coil-base-2.7.0-19 C:\Users\Nwick\.gradle\caches\8.9\transforms\6246b7f3b44828661213fabfdab3cc5a\transformed\coil-base-2.7.0\res
+lk.craftkart.pos.app-ui-release-20 C:\Users\Nwick\.gradle\caches\8.9\transforms\692a8db4abf09ddc0d5d39f865adeeb3\transformed\ui-release\res
+lk.craftkart.pos.app-navigation-runtime-2.8.5-21 C:\Users\Nwick\.gradle\caches\8.9\transforms\69af30846c50ca5859fca8ebf0b97a29\transformed\navigation-runtime-2.8.5\res
+lk.craftkart.pos.app-lifecycle-runtime-ktx-release-22 C:\Users\Nwick\.gradle\caches\8.9\transforms\6c7d9ff6e524ed6402b9f4e08568d3f6\transformed\lifecycle-runtime-ktx-release\res
+lk.craftkart.pos.app-material-ripple-release-23 C:\Users\Nwick\.gradle\caches\8.9\transforms\6cc097bb802485cc44fde2d3cfdb01bf\transformed\material-ripple-release\res
+lk.craftkart.pos.app-navigation-common-ktx-2.8.5-24 C:\Users\Nwick\.gradle\caches\8.9\transforms\6cc87a3f52129c1e9cea003a58578945\transformed\navigation-common-ktx-2.8.5\res
+lk.craftkart.pos.app-sqlite-framework-2.4.0-25 C:\Users\Nwick\.gradle\caches\8.9\transforms\6ed8be98dd28e9a6f8cbff88329bd3e9\transformed\sqlite-framework-2.4.0\res
+lk.craftkart.pos.app-material3-release-26 C:\Users\Nwick\.gradle\caches\8.9\transforms\6f891dadacedab6399508517f7c82038\transformed\material3-release\res
+lk.craftkart.pos.app-navigation-runtime-ktx-2.8.5-27 C:\Users\Nwick\.gradle\caches\8.9\transforms\7119d4defd06eb3f05440631991955cd\transformed\navigation-runtime-ktx-2.8.5\res
+lk.craftkart.pos.app-graphics-path-1.0.1-28 C:\Users\Nwick\.gradle\caches\8.9\transforms\76a65a675e41162ed48bd8ceebaa600f\transformed\graphics-path-1.0.1\res
+lk.craftkart.pos.app-foundation-layout-release-29 C:\Users\Nwick\.gradle\caches\8.9\transforms\77acc2d1bdc3bb0e6f482c941c33b8d9\transformed\foundation-layout-release\res
+lk.craftkart.pos.app-activity-compose-1.9.3-30 C:\Users\Nwick\.gradle\caches\8.9\transforms\7c608c7c40fb49b6cf25864d9a77387f\transformed\activity-compose-1.9.3\res
+lk.craftkart.pos.app-core-1.15.0-31 C:\Users\Nwick\.gradle\caches\8.9\transforms\7c7d23c171450a8ee79196e2e86a07d7\transformed\core-1.15.0\res
+lk.craftkart.pos.app-sqlite-2.4.0-32 C:\Users\Nwick\.gradle\caches\8.9\transforms\8065307cee37ee5957913b84b781bc93\transformed\sqlite-2.4.0\res
+lk.craftkart.pos.app-appcompat-resources-1.6.1-33 C:\Users\Nwick\.gradle\caches\8.9\transforms\906084cf76d3621eddc88f01e8e51837\transformed\appcompat-resources-1.6.1\res
+lk.craftkart.pos.app-core-runtime-2.2.0-34 C:\Users\Nwick\.gradle\caches\8.9\transforms\937f8978ae6a21fd143e88f7423f8080\transformed\core-runtime-2.2.0\res
+lk.craftkart.pos.app-profileinstaller-1.3.1-35 C:\Users\Nwick\.gradle\caches\8.9\transforms\9747e60b75ddbb7b0463cd9f0b60b494\transformed\profileinstaller-1.3.1\res
+lk.craftkart.pos.app-lifecycle-runtime-compose-release-36 C:\Users\Nwick\.gradle\caches\8.9\transforms\9bc3c9298ecda0bf32b37b4b09b9ced3\transformed\lifecycle-runtime-compose-release\res
+lk.craftkart.pos.app-ui-util-release-37 C:\Users\Nwick\.gradle\caches\8.9\transforms\a681045b540d63b38f97818e06c024be\transformed\ui-util-release\res
+lk.craftkart.pos.app-ui-graphics-release-38 C:\Users\Nwick\.gradle\caches\8.9\transforms\a6eafcdad76a5aa231057b783172c7c1\transformed\ui-graphics-release\res
+lk.craftkart.pos.app-lifecycle-viewmodel-ktx-2.8.7-39 C:\Users\Nwick\.gradle\caches\8.9\transforms\aa6c84dfeb198f579df898ec477271eb\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+lk.craftkart.pos.app-activity-ktx-1.9.3-40 C:\Users\Nwick\.gradle\caches\8.9\transforms\ad92d6635e5ec0b1d5cd856d07b73162\transformed\activity-ktx-1.9.3\res
+lk.craftkart.pos.app-annotation-experimental-1.4.1-41 C:\Users\Nwick\.gradle\caches\8.9\transforms\aea6c2b017b159ec597f9a97fadc7e2e\transformed\annotation-experimental-1.4.1\res
+lk.craftkart.pos.app-ui-geometry-release-42 C:\Users\Nwick\.gradle\caches\8.9\transforms\afc35ef41038e0ba2ecd36599d2992ae\transformed\ui-geometry-release\res
+lk.craftkart.pos.app-ui-tooling-data-release-43 C:\Users\Nwick\.gradle\caches\8.9\transforms\b0a4921f9e4d626893cf09a5ad7d7ae6\transformed\ui-tooling-data-release\res
+lk.craftkart.pos.app-lifecycle-livedata-core-2.8.7-44 C:\Users\Nwick\.gradle\caches\8.9\transforms\b41288d3f419528883bde7cd109c3527\transformed\lifecycle-livedata-core-2.8.7\res
+lk.craftkart.pos.app-animation-core-release-45 C:\Users\Nwick\.gradle\caches\8.9\transforms\bf5cea47c167ce9ab5dc96e06830cab2\transformed\animation-core-release\res
+lk.craftkart.pos.app-ui-unit-release-46 C:\Users\Nwick\.gradle\caches\8.9\transforms\c03e976a4130334f424774ee91454484\transformed\ui-unit-release\res
+lk.craftkart.pos.app-material-icons-core-release-47 C:\Users\Nwick\.gradle\caches\8.9\transforms\c68a944d0ae70e2be6cb3074d1017549\transformed\material-icons-core-release\res
+lk.craftkart.pos.app-lifecycle-viewmodel-compose-release-48 C:\Users\Nwick\.gradle\caches\8.9\transforms\d89198d31482719e5d844f1f5092f2bf\transformed\lifecycle-viewmodel-compose-release\res
+lk.craftkart.pos.app-material-icons-extended-release-49 C:\Users\Nwick\.gradle\caches\8.9\transforms\db781fcc827b8d81bcda725f4779f452\transformed\material-icons-extended-release\res
+lk.craftkart.pos.app-animation-release-50 C:\Users\Nwick\.gradle\caches\8.9\transforms\dd98faa82ce9edd5a9852fb88d88d4ce\transformed\animation-release\res
+lk.craftkart.pos.app-material-release-51 C:\Users\Nwick\.gradle\caches\8.9\transforms\f27d2bfb07e0ded200d0da6bbe339306\transformed\material-release\res
+lk.craftkart.pos.app-room-ktx-2.6.1-52 C:\Users\Nwick\.gradle\caches\8.9\transforms\f38a975e0d8021a3505367d25489a310\transformed\room-ktx-2.6.1\res
+lk.craftkart.pos.app-ui-tooling-preview-release-53 C:\Users\Nwick\.gradle\caches\8.9\transforms\f9674aae0d79267a5cf6de36186242b3\transformed\ui-tooling-preview-release\res
+lk.craftkart.pos.app-navigation-compose-2.8.5-54 C:\Users\Nwick\.gradle\caches\8.9\transforms\fba9e5caf4a7049f34cb9a46d83d0c8e\transformed\navigation-compose-2.8.5\res
+lk.craftkart.pos.app-resValues-55 E:\AIprojects\Safety App\Android Apps\TeslaScan\app\build\generated\res\resValues\debug
+lk.craftkart.pos.app-packageDebugResources-56 E:\AIprojects\Safety App\Android Apps\TeslaScan\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+lk.craftkart.pos.app-packageDebugResources-57 E:\AIprojects\Safety App\Android Apps\TeslaScan\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+lk.craftkart.pos.app-debug-58 E:\AIprojects\Safety App\Android Apps\TeslaScan\app\build\intermediates\merged_res\debug\mergeDebugResources
+lk.craftkart.pos.app-debug-59 E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\debug\res
+lk.craftkart.pos.app-main-60 E:\AIprojects\Safety App\Android Apps\TeslaScan\app\src\main\res

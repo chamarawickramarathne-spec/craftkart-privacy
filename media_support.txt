@@ -1,0 +1,82 @@
+CRAFTKART - MEDIA SUPPORT FILE
+Generated: 2026-10-28  |  App version: 1.4.2
+Regenerate this file after every modification.
+
+============================================================
+1. TITLE
+============================================================
+CraftKart - Handmade Shop Inventory & POS
+
+============================================================
+2. SHORT DESCRIPTION
+============================================================
+CraftKart is a simple inventory + point-of-sale app for handmade
+businesses. Track your products and customers, sell with cash, card,
+UPI or credit, and share PDF receipts - all offline on your phone.
+
+============================================================
+3. LONG DESCRIPTION
+============================================================
+CraftKart is built for small handmade businesses. Manage your full
+product catalog with photos, organize items into categories, and
+keep a live eye on stock levels with automatic low-stock alerts.
+Scan barcodes and QR codes with your camera to add items to a sale
+or file a new product in seconds, and adjust stock levels with one
+tap - add or remove quantities with a reason logged automatically.
+Selling is fast and friendly: search or browse items, tap to add to
+cart, apply a discount, pick cash, card, UPI or credit for a regular
+customer, and complete the sale. Stock is updated automatically and
+every sale is saved to your sales history with a shareable PDF
+receipt. Know your numbers with reports: today, this week, this month
+or all time - revenue, orders, average sale and profit. Keep your
+customers on file with credit balances, loyalty points and group
+discounts, and issue refunds that restore stock in one tap.
+Everything is stored safely on your phone - no internet needed.
+Works in English and Sinhala. Perfect for greeting cards, bookmarks,
+gift tags and any handcrafted product.
+
+============================================================
+4. FACEBOOK POST TEXT
+============================================================
+Running a handmade shop? Say hello to CraftKart - your pocket
+inventory and POS. Add your greeting cards, bookmarks and craft
+items with photos, watch stock so you never run out, and scan
+barcodes to add items to a sale in a blink. Adjust stock in one tap
+and sell fast with cash, card, UPI or credit, share PDF receipts,
+and see your real numbers with built-in reports. Manage regular
+customers with credit and loyalty points, and refund in one tap with
+automatic stock restore. Everything is saved offline on your phone,
+in English or Sinhala. Simple enough to learn in one minute. Try it
+today!
+
+============================================================
+5. TAGS (10)
+============================================================
+#CraftKart #HandmadeShop #POS #InventoryManagement #SmallBusiness
+#GreetingCards #Bookmarks #CraftBusiness #SriLanka #ShopOwner
+
+============================================================
+6. AI IMAGE PROMPTS (5)
+============================================================
+1. "Friendly flat-lay photo of handmade greeting cards and tassel
+   bookmarks on a warm cream table, wooden craft tools, soft morning
+   light, cozy artisan workshop feel, warm terracotta and saffron
+   colors."
+
+2. "A cheerful smartphone mockup showing a colorful inventory and POS
+   app with a barcode scanner overlay and a customer list, floating
+   on a background of colorful handmade cards and ribbons, pastel
+   craft aesthetic."
+
+3. "Top-down shot of a small business counter with a phone running a
+   POS checkout showing a receipt, stack of greeting cards, a cash
+   box, and a small card payment terminal, bright warm lighting."
+
+4. "Hand-drawn style illustration of a shopkeeper handing a receipt
+   to a customer, surrounded by floating greeting cards, bookmarks
+   and gift tags, warm cream and terracotta palette, flat vector art."
+
+5. "Split-screen design: left shows a messy craft shelf, right shows
+   the same shelf tidy with stock labels and a rising sales graph,
+   symbolizing organized inventory and growth, playful illustration
+   style, soft colors."

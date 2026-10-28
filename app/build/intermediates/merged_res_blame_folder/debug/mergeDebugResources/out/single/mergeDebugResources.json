@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "lk.craftkart.pos.app-debug-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "lk.craftkart.pos.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "lk.craftkart.pos.app-debug-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "lk.craftkart.pos.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "lk.craftkart.pos.app-debug-59:/xml_file_paths.xml.flat",
+        "source": "lk.craftkart.pos.app-main-61:/xml/file_paths.xml"
+    },
+    {
+        "merged": "lk.craftkart.pos.app-debug-59:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "lk.craftkart.pos.app-main-61:/drawable/ic_launcher_foreground.xml"
+    }
+]

@@ -1,0 +1,4181 @@
+Marking string:refund_confirm:2131361990 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking layout:zxing_capture:2131165194 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_barcode_scanner:2131034206 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:name_required:2131361945 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:category_required:2131361826 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:price_required:2131361968 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:hide_graphics_layer_in_inspector_tag:2131034163 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:view_tree_view_model_store_owner:2131034203 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:view_tree_lifecycle_owner:2131034200 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:receipt_business:2131361976 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:receipt_number:2131361982 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:receipt_payment:2131361983 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:card:2131361817 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:upi:2131362059 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:cash:2131361820 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:credit:2131361833 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:customer:2131361839 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:refunded:2131361994 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:receipt_discount:2131361979 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:receipt_tax:2131361985 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:receipt_total:2131361988 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:footer_saved:2131361859 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:no_sales:2131361957 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:no_sales_hint:2131361958 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:consume_window_insets_tag:2131034157 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:report_revenue:2131362003 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:report_profit:2131362001 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:report_orders:2131362000 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:report_discount:2131361997 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:report_refunds:2131362002 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:new_sale:2131361951 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:catalog:2131361821 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:add_item:2131361796 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:sales_history:2131362010 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:reports:2131362006 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:customers:2131361842 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:inspection_slot_table_set:2131034169 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:wrapped_composition_tag:2131034204 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:share_receipt:2131362018 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:done:2131361855 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:add:2131361795 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:remove:2131361995 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:complete_sale:2131361831 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_decode:2131034210 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_decode_succeeded:2131034212 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_decode_failed:2131034211 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_possible_result_points:2131034213 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_preview_failed:2131034214 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:item_saved:2131361867 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:no_report_data:2131361956 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:top_sellers:2131362045 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:category_breakdown:2131361824 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:view_tree_on_back_pressed_dispatcher_owner:2131034201 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:androidx_compose_ui_view_composition_context:2131034150 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:delete:2131361846 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:delete_confirm:2131361848 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:unit_pair:2131362054 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:unit_pack:2131362053 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:unit_set:2131362056 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:unit_box:2131362049 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:unit_kg:2131362051 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:unit_m:2131362052 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:unit_pcs:2131362055 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:unit_g:2131362050 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:tab:2131362030 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:switch_role:2131362029 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:default_error_message:2131361843 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:zxing_msg_camera_framework_bug:2131362067 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:stock_alert:2131362025 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:cart:2131361818 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:cart_empty:2131361819 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:subtotal:2131362028 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:discount_rs:2131361854 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:total:2131362046 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:payment_method:2131361964 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:walk_in:2131362064 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:credit_limit:2131361834 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:m3c_bottom_sheet_pane_title:2131361892 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:close_sheet:2131361829 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:quick_actions:2131361973 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:no_low_stock:2131361954 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:low_stock_items:2131361883 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:app_name:2131361802 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:sale_complete:2131362007 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:scan:2131362012 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:search_items:2131362014 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:discount_pct:2131361853 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking color:zxing_viewfinder_mask:2130837522 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking color:zxing_result_view:2130837518 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking color:zxing_viewfinder_laser:2130837521 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking color:zxing_possible_result_points:2130837517 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:tag_unhandled_key_listeners:2131034194 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:no_items:2131361952 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:no_items_hint:2131361953 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:photo:2131361967 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:all:2131361800 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:low_stock_threshold:2131361886 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:category:2131361823 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_0:2131034113 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_1:2131034114 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_2:2131034125 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_3:2131034136 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_4:2131034139 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_5:2131034140 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_6:2131034141 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_7:2131034142 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_8:2131034143 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_9:2131034144 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_10:2131034115 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_11:2131034116 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_12:2131034117 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_13:2131034118 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_14:2131034119 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_15:2131034120 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_16:2131034121 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_17:2131034122 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_18:2131034123 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_19:2131034124 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_20:2131034126 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_21:2131034127 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_22:2131034128 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_23:2131034129 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_24:2131034130 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_25:2131034131 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_26:2131034132 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_27:2131034133 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_28:2131034134 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_29:2131034135 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_30:2131034137 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_custom_action_31:2131034138 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:indeterminate:2131361865 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:state_off:2131362022 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:state_on:2131362023 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:selected:2131362016 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:not_selected:2131361959 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:template_percent:2131362037 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:in_progress:2131361863 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:state_empty:2131362021 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:m3c_dialog:2131361924 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:choose_photo:2131361827 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:take_photo:2131362036 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:cancel:2131361816 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:view_tree_saved_state_registry_owner:2131034202 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:m3c_dropdown_menu_expanded:2131361926 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:m3c_dropdown_menu_collapsed:2131361925 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:m3c_dropdown_menu_toggle:2131361927 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:hide_in_inspector_tag:2131034165 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:pdf_failed:2131361965 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:receipt_thanks_label:2131361987 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:receipt_contact:2131361977 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:sinhala:2131362019 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:english:2131361858 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:business_name:2131361808 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:tab_settings:2131362035 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:tag_on_apply_window_listener:2131034187 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:tag_window_insets_animation_callback:2131034195 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:edit:2131361857 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:new_item:2131361950 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:m3c_bottom_sheet_collapse_description:2131361888 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:m3c_bottom_sheet_dismiss_description:2131361889 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:m3c_bottom_sheet_expand_description:2131361891 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_prewiew_size_ready:2131034215 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_camera_error:2131034209 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_camera_closed:2131034208 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:default_popup_window_title:2131361844 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:compose_view_saveable_id_tag:2131034156 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:save:2131362011 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:currency_label:2131361838 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:version:2131362062 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:about_text:2131361793 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:barcode_not_found:2131361807 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking layout:zxing_barcode_scanner:2131165193 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_barcode_surface:2131034207 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_viewfinder_view:2131034217 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:zxing_status_view:2131034216 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:report_all:2131361996 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:report_last30:2131361998 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:report_month:2131361999 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:report_week:2131362005 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:report_today:2131362004 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:sale_saved:2131362009 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:m3c_bottom_sheet_drag_handle_description:2131361890 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:zxing_app_name:2131362065 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:zxing_button_ok:2131362066 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:today_sales:2131362042 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:orders_today:2131361961 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:refund_reason:2131361991 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:refund_sale:2131361992 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:sale_detail:2131362008 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:cost_price:2131361832 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:selling_price:2131362017 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:items_total:2131361869 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:low_stock:2131361881 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking drawable:abc_vector_test:2130968576 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:credit_needs_customer:2131361836 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:is_pooling_container_tag:2131034170 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:update:2131362058 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:refund:2131361989 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking style:EdgeToEdgeFloatingDialogWindowTheme:2131427330 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:tab_sales:2131362034 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:tab_home:2131362031 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:tab_pos:2131362033 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:tab_inventory:2131362032 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking raw:zxing_beep:2131296256 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:categories_title:2131361822 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:adjust_stock:2131361798 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:stock_qty:2131362027 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:description:2131361851 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:barcode:2131361806 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:item_name:2131361866 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:unit:2131362048 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:select_category:2131362015 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:stock_change:2131362026 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:adjustment_reason:2131361799 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:category_hint:2131361825 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:new_category:2131361947 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:delete_category_blocked:2131361847 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:androidx_startup:2131361801 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:pooling_container_listener_holder_tag:2131034179 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:tag_screen_reader_focusable:2131034190 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:tag_accessibility_heading:2131034185 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:tag_accessibility_pane_title:2131034186 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:tag_state_description:2131034191 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:tag_accessibility_actions:2131034183 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:accessibility_action_clickable_span:2131034112 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:tag_accessibility_clickable_spans:2131034184 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:tag_unhandled_key_event_manager:2131034193 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking id:report_drawn:2131034180 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:language:2131361870 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:currency:2131361837 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:receipt_footer:2131361980 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:about:2131361792 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking style:DialogWindowTheme:2131427328 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking string:items_count:2131361868 reachable: referenced from E:\AIprojects\Safety App\Android Apps\CraftKart\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+android.content.res.Resources#getIdentifier present: true
+Web content present: false
+Referenced Strings:
+trustRootIndex
+TransactionDispatcher
+​
+java.lang.Integer
+BrightnessValue
+header_
+android.graphics.drawable.ColorStateL...
+TAKEN
+layoutDirection
+$this$item
+$this$ModalBottomSheet
+com.android.contacts
+Compose:abandons
+Rgb565
+SUGGESTED_PRICE
+Filled.Add
+$
+java.lang.CharSequence
+STOP
+text/xml
+Subtotal
+RESTRICT
+Orientation
+0
+1
+textSelectionRange
+2
+3
+4
+AspectFrame
+ACTION_PRESS_AND_HOLD
+5
+left
+kotlinx.coroutines.DefaultExecutor
+6
+7
+notnull
+8
+9
+JvmSystemFileSystem
+Strategy.HighQuality
+A
+B
+C
+role
+S_RESUMING_BY_RCV
+CODE_93
+D
+E
+Selection
+F
+emoji2.text.DefaultEmojiConfig
+displayName
+androidx.compose.foundation.lazy.layo...
+G
+H
+I
+index_sale_items_saleId
+J
+ImageLength
+Prefix
+K
+record.loggerName
+L
+TORCH_ENABLED
+M
+UnicodeBigUnmarked
+N
+PKIX
+O
+targetVersion
+P
+result
+Q
+DeferredAnimation
+R
+S
+T
+U
+V
+W
+X
+NumberPassword
+Y
+image/heif
+Z
+constructor.parameterTypes
+image/heic
+EXTRA_BENCHMARK_OPERATION
+_
+a
+b
+Center
+completedExpandBuffersAndPauseFlag$vo...
+address
+c
+ACTION_CLEAR_ACCESSIBILITY_FOCUS
+d
+Infinity
+e
+Compose:unobserve
+f
+g
+M10500
+h
+i
+truncated
+j
+k
+l
+kotlin.String
+RESUMING_BY_EB
+m
+cookieJar
+OnClick
+n
+o
+p
+q
+r
+sale
+s
+java.lang.Module
+SUSPEND
+t
+u
+TypefaceCompatApi26Impl
+v
+cipherSuites
+w
+x
+y
+z
+ProgressBarRangeInfo
+
+reports
+CTRL_
+Start
+POST
+ColorSpace
+PRIORITY
+image/webp
+isTagEnabled
+totalAmountCents
+Checkbox
+removeMethod
+Multiply
+ACTION_SCROLL_FORWARD
+compose:lazy:prefetch:compose
+Expanded
+£
+H2_PRIOR_KNOWLEDGE
+TLS_PSK_WITH_AES_128_CBC_SHA
+list
+Rgb
+indicatorRipple
+DateTimeDigitized
+Bottom
+End
+inventory/item
+child
+cid
+manning
+androidx.view.accessibility.Accessibi...
+COMPLETING_WAITING_CHILDREN
+RESULT_BASELINE_PROFILE_NOT_FOUND
+remove
+RESULT_DELETE_SKIP_FILE_SUCCESS
+SDK_INT
+WordBreak.None
+unsupported
+http2Connection
+provider
+root
+rhannah
+kotlinx.coroutines.main.delay
+NaN
+navigationBars
+Age
+pcs
+headers
+onDismiss
+kotlin.collections.List
+A70AXLTMO
+GPSImgDirection
+org.bouncycastle.jsse.provider.Bouncy...
+getNextValue
+ACTION_ARGUMENT_SET_TEXT_CHARSEQUENCE
+android.view.View$AttachInfo
+java.lang.Float
+GPSDifferential
+Dispatchers.IO
+N5702L
+BV9500
+catalog
+layoutlib
+InactivePendingWork
+fixups
+SharingStarted.Eagerly
+autoMigrationSpecs
+androidx.profileinstaller.action.SAVE...
+LookaheadLayingOut
+android.os.Build$VERSION
+LocalGraphicsContext
+ImageWidth
+executor
+HTTP/1.0
+okhttp3.mockwebserver.MockWebServer
+HTTP/1.1
+block
+fullPackage
+spdy/3.1
+write
+StateDescription
+SensorLeftBorder
+GPSDestLatitudeRef
+serverProviderClass
+TLS_KRB5_WITH_DES_CBC_SHA
+toggleableState
+EmojiSupportMatch.Default
+byte
+$this$Button
+TextSubstitution
+EXACT
+GPSStatus
+Square
+CHARACTER_SET
+SCAN_RESULT_UPC_EAN_EXTENSION
+connectionSpecs
+Modulate
+SSL_DHE_RSA_WITH_DES_CBC_SHA
+RCT6513W87DK5e
+onBackInvoked
+XResolution
+YCbCrCoefficients
+%2B
+orders
+taskRunner
+sellPriceCents
+TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SH...
+Warning
+foreignKeys
+ACTION_SCROLL_IN_DIRECTION
+sslSocket.enabledProtocols
+INADEQUATE_SECURITY
+MaxApertureValue
+IGNORE
+maxTextLength
+U5A_PLUS_4G
+HEADERS
+ACTION_PAGE_UP
+FloatAnimation
+%2e
+java.lang.String
+ExifIFDPointer
+%40
+sales/
+HorizontalScrollAxisRange
+SSL_RSA_WITH_RC4_128_MD5
+Unspecified
+Default
+AndroidEdgeEffectOverscrollEffect
+BCJSSE
+Filled.Search
+LookaheadMeasuring
+nora_8917
+Lighten
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+ExifVersion
+EAN_8
+All
+New
+lk.craftkart.pos.data.AppRepository$r...
+putMethod
+G3212
+workerCtl$volatile
+MaxTextLength
+Copyright
+android.widget.CheckBox
+getApplicationProtocol
+okhttp.OkHttpClient
+android.view.accessibility.extra.DATA...
+Plus
+costPriceCents
+void
+G3221
+G3223
+supportedCipherSuites
+G3226
+statusBarStyle
+PrimaryNotEditable
+READ
+200
+compose:lazy:prefetch:nested
+204
+206
+StructuralEqualityPolicy
+REAL
+SensitivityType
+_id
+kotlin.Throwable
+_handled$volatile
+RequestFocus
+Horizontal
+displayCutout
+TLS_ECDH_anon_WITH_AES_256_CBC_SHA
+NO_VALUE
+sendAccessibilitySemanticsStructureCh...
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+SSLv3
+times
+kotlin.Annotation
+SkipSubtreeAndContinueTraversal
+GPSTrackRef
+RCT6B03W13
+RCT6B03W12
+lang
+Invalid
+TLS_PSK_WITH_AES_256_CBC_SHA
+Strictness.None
+High
+%6s
+BITMAP
+SubjectLocation
+mandatorySystemGestures
+ENHANCE_YOUR_CALM
+SwitchAccess
+newConfig
+row_
+Array
+DigitalZoomRatio
+intrface
+_size$volatile
+jvmVersion
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+android.permission.CAMERA
+UNKNOWN
+initialExtras
+DstOut
+arcSpline
+_isCompleting$volatile
+Bradford
+accessibility
+quic
+STOP_AND_RESET_REPLAY_CACHE
+onBackCancelled
+impl
+hostname
+BV6800Pro
+kotlinx.coroutines.scheduler.keep.ali...
+CONNECT_ERROR
+setCategory
+TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+state
+CompanionObject
+element
+%8s
+ACTION_SCROLL_DOWN
+android.content.extra.SIZE
+SelectionHandleInfo
+android.view.ViewRootImpl
+mcv1s
+pack
+TextDecoration.
+.class
+240
+GPSImgDirectionRef
+241
+cacheResponse
+242
+input
+itemId
+InteroperabilityIndex
+FocalPlaneYResolution
+aljeter
+dalvik.system.CloseGuard
+ERROR_CORRECTION_LEVEL
+items
+GPSDestDistanceRef
+mcv5a
+kotlin.collections.MutableMap.Mutable...
+CollectionInfo
+stockQty
+on_delete
+Rtl
+GetTextLayoutResult
+okhttp/4.12.0
+250
+251
+253
+ToggleableState
+254
+ordersMap.values
+ComposeInternal
+pos
+TLS_ECDHE_PSK_WITH_CHACHA20_POLY1305_...
+liveRegion
+DstIn
+setRemoveOnCancelPolicy
+barcodeimage
+receive
+getParent
+WhitePoint
+internalQueryExecutor
+Connection
+refresh
+Normal
+androidx.lifecycle.ViewModelProvider....
+OTHER
+runnable
+dflt_value
+GOAWAY
+$this$composable
+Vary
+PaneTitle
+AsyncImagePainter.onRemembered
+klass.interfaces
+mcv7a
+Hint
+source
+secure
+SelectionStart
+android.intent.action.BATTERY_CHANGED
+Compose:Composer.dispose
+Compose
+Container
+java.lang.Short
+Search
+android.widget.Button
+Oklab
+androidx.view.accessibility.Accessibi...
+CameraThread
+Eraser
+INTEGER
+8101
+8102
+8100
+tableIds
+DIAGNOSTIC_PROFILE_IS_COMPRESSED
+HandlerCompat
+Medium
+Enter
+TLS_CHACHA20_POLY1305_SHA256
+INTERRUPTED_RCV
+8110
+font_variation_settings
+DpAnimation
+TLS_KRB5_EXPORT_WITH_RC4_40_SHA
+STRUCTURED_APPEND
+cipherSuitesIntersection
+GPSDateStamp
+TextSelectionRange
+99990
+lk.craftkart.pos.data.AppRepository$a...
+Stylus
+99991
+GBK
+SEALED
+CREATED
+NO_OWNER
+ContentOrRtl
+android.intent.category.OPENABLE
+st18c10bnn
+TLSv1.3
+TLS_KRB5_WITH_RC4_128_MD5
+TLSv1.2
+TLSv1.1
+androidx.content.action.LOAD_EMOJI_FONT
+Password
+theme_mode
+TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384
+SubfileType
+DNGVersion
+yes
+Fab
+EXTRA_SKIP_FILE_OPERATION
+INTERNAL_ERROR
+captionBar
+pair
+Paragraph
+short
+Sentences
+TLS_DHE_DSS_WITH_AES_128_CBC_SHA
+ApertureValue
+Strategy.Unspecified
+COMPLETING_RETRY
+jeter
+j7maxlte
+TLS_AES_128_CCM_SHA256
+TypefaceCompat.createFromFontInfo
+android.widget.RadioButton
+android.widget.ImageView
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA256
+ACCESSIBILITY_CLICKABLE_SPAN_ID
+imeAction
+loyaltyPoints
+CODENAME
+put
+ACTION_PAGE_LEFT
+modelClass.constructors
+CARD
+YResolution
+SSL_RSA_WITH_DES_CBC_SHA
+%2e%2e
+FAILED
+POISONED
+TLS_DHE_RSA_WITH_AES_128_GCM_SHA256
+font_ttc_index
+CODE_39
+lk.craftkart.pos.data.AppRepository
+ACTION_SHOW_ON_SCREEN
+Repository.kt
+customActions
+PreEnter
+CASH
+CustomActions
+robolectric
+ASUS_X018_4
+BUFFERED
+$callback
+ORIENTATION
+GET
+.apk
+EAN_13
+unicodeDomain
+CHANNEL_CLOSED
+SharingStarted.Lazily
+CONTINUATION
+discountAmountCents
+java.lang.Throwable
+Power_5
+/data/misc/profiles/cur/0/
+map.entries
+PRODUCT_MODE
+Outlined
+migrationContainer
+unknown
+undefined
+onSelect
+proxySelector
+android.widget.SeekBar
+QueryDispatcher
+INITIALIZED
+REMOVE
+CFAPattern
+SSL_DH_anon_EXPORT_WITH_DES40_CBC_SHA
+deqIdx$volatile
+GPSDestBearingRef
+LineHeightStyle.Alignment.Bottom
+chain
+ACTION_DRAG_START
+$this$navigate
+peerSettings
+SBYTE
+deleteCategory
+1.4.1
+targetBytes
+.immediate
+_consensus$volatile
+rememberAsyncImagePainter
+char
+RETURN_CODABAR_START_END
+/index.html
+None
+ali_n
+android_asset
+PENTAX
+TLS_DHE_DSS_WITH_AES_128_CBC_SHA256
+errorCode
+Bevel
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+Filled.BarChart
+Send
+RESULT_INSTALL_SUCCESS
+internalTransactionExecutor
+onClearFocusForOwner
+android.intent.action.GET_CONTENT
+CollectionItemInfo
+BoundReached
+klass
+SCAN_FORMATS
+KEY_COMPONENT_ACTIVITY_REGISTERED_KEYS
+trailingIcon
+ALIGN_RIGHT
+SubSecTime
+CLOSE_HANDLER_INVOKED
+java.lang.Cloneable
+Power_2_Pro
+publicKey.encoded
+BV9500Pro
+Compose:deactivate
+GPSLongitudeRef
+format
+_rootCause$volatile
+requestLine
+Alpha8
+peerCertificates
+TLS_1_3
+TLS_1_2
+V0310WW
+request
+CLOSED
+LocalImageVectorCache
+TLS_1_1
+values
+TLS_1_0
+isContainer
+LocalFocusManager
+LineHeightStyle.Trim.None
+findViewByAccessibilityIdTraversal
+Idle
+HardLight
+kotlin.String.Companion
+padding
+SSL_NULL_WITH_NULL_NULL
+LocalDensity
+process
+creditLimitCents
+ISOSpeedLatitudezzz
+ActiveParent
+TODAY
+ACTION_SHOW_TOOLTIP
+okhttp.MockWebServer
+TLS_DHE_RSA_WITH_AES_256_CBC_SHA256
+jClass
+addFontFromAssetManager
+categoryShares
+Date
+DstOver
+mAttachInfo
+_cur$volatile
+classes.dex
+categoryId
+TLS_FALLBACK_SCSV
+TLS_DH_anon_WITH_AES_256_CBC_SHA
+Left
+java.specification.version
+insertInorderBarrier
+kotlin.Cloneable
+TLS_RSA_WITH_AES_256_CBC_SHA
+GPSDestBearing
+CTRL_PL
+path
+amountCents
+Decimal
+ExposureMode
+Button
+CTRL_PS
+record
+kotlin.reflect.jvm.internal.Reflectio...
+PARKING
+CutText
+COLLAPSED
+tlsVersionsIntersection
+localToScreen
+DEFAULT_TEST_TAG
+addObserver
+ID1ID2
+PixelXDimension
+ContentQueryWrapper.query
+ClearTextSubstitution
+ON_ANY
+guava.concurrent.generate_cancellatio...
+GMT
+route
+ON_PAUSE
+MeteringMode
+Filled.SwapVert
+domain
+StripByteCounts
+CraftKart
+:path
+groupAnchor
+Canceled
+TraceCompat
+ahannah
+Link
+invokeSuspend
+Recomposer:animation
+albums
+getEmojiConsistencySet
+DROP_LATEST
+A30ATMO
+ExitTransition.KeepUntilTransitionsFi...
+TLS_DHE_RSA_WITH_CAMELLIA_128_CBC_SHA
+onBackInvokedDispatcher
+journal
+:scheme
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA
+composition
+StripOffsets
+.SSLParametersImpl
+RESULT_DESIRED_FORMAT_UNSUPPORTED
+ISOSpeedRatings
+0.00
+onNewItem
+currentView
+EnterTransition.None
+PERMIT
+TLS_RSA_WITH_SEED_CBC_SHA
+PDF_417
+android.os.SystemProperties
+OkHttp
+Recomposer:recompose
+CANCEL
+703
+90000
+rjames_go
+missingDelimiterValue
+CancelTraversal
+listener
+ASCII
+dir
+Upgrade
+taskQueue
+SubIFDPointer
+AwaitContinuation
+Compose:onForgotten
+unitPriceCents
+kotlin.Boolean
+Clickable
+RoomCursorUtil
+barcode
+OECF
+DORMANT
+parcel
+count
+CTRL_UL
+graph
+Weight
+DISABLED
+Role
+CTRL_US
+month
+java.lang.annotation.Annotation
+org.eclipse.jetty.alpn.ALPN$ClientPro...
+sha256/
+font_weight
+$e
+AndroidOwner:onMeasure
+TERMINATED
+session
+compositionLocalMap
+ACTION_SET_SELECTION
+isCtrlPressed
+$this$NavigationBar
+title
+androidx.view.accessibility.Accessibi...
+SPDY_3
+kotlin.collections.Map
+76060709a56dae412041013e21d342cb
+RecordingIC
+ck_prefs
+columnNames
+SubjectArea
+ProfileInstaller
+java.lang.Boolean
+TLS
+FocalPlaneXResolution
+Leading
+socketAddress
+classSimpleName
+owner
+.jpg
+IconCompat
+ExifInterface
+%n
+Hi9Pro
+und
+TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
+home
+Filled
+nodes
+on_update
+app_meta
+sQLiteOpenHelper
+DEFAULT
+SensingMethod
+DROP_OLDEST
+SetText
+updateDisplayListIfDirty
+android.support.FILE_PROVIDER_PATHS
+InsertTextAtCursor
+_removedRef$volatile
+tables
+navigation
+androidx.activity.result.contract.ext...
+androidx.view.accessibility.Accessibi...
+BE/LU
+action
+text
+Captured
+Shift_JIS
+LocalFontFamilyResolver
+blockingTasksInBuffer$volatile
+cookie
+primary.prof
+TLS_AES_256_GCM_SHA384
+dns
+Contrast
+upi
+ETag
+getResId
+TIMEOUT
+connectionName
+arch_disk_io_
+server
+LocalClipboardManager
+SamplesPerPixel
+TestTagsAsResourceId
+ACTION_CLEAR_SELECTION
+Right
+record.message
+RESPECT_PERFORMANCE
+Off
+InvisibleToUser
+DpSize.Unspecified
+file
+YCbCrSubSampling
+fileHandle
+RECEIPT
+traversalIndex
+Filled.People
+CancellableContinuation
+map
+Filled.PhotoLibrary
+Final
+$this$OutlinedButton
+TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA
+hannah
+NUMERIC
+okhttp.Http2
+SSL_RSA_WITH_NULL_SHA
+max
+java.nio.file.Files
+COMPRESSED
+ACTION_PAGE_RIGHT
+FlashEnergy
+TLS_DHE_DSS_WITH_CAMELLIA_128_CBC_SHA
+torch
+SaveableStateHolder_BackStackEntryKey
+menu
+uri
+url
+sslSocket.enabledCipherSuites
+Italic
+focusManager
+entities
+304
+viewParent
+ACTION_HIDE_TOOLTIP
+CatS41
+EmojiCompat.MetadataRepo.create
+columnName
+TERMINATOR
+RESUMED
+KEY_COMPONENT_ACTIVITY_PENDING_RESULT
+consumed$volatile
+Luminosity
+integer
+LineHeightStyle.Trim.FirstLineTop
+deleteCustomerGroup
+feff
+310
+ContinueTraversal
+mVisibleInsets
+invalidateOwnerFocusState
+311
+isEditable
+312
+313
+314
+315
+host
+316
+credit
+onBackStarted
+selected
+HTTP_2
+RESPECT_ALL
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+sendersAndCloseStatus$volatile
+interrupted
+Filled.PointOfSale
+separator
+320
+entries
+321
+task
+322
+font_italic
+null
+323
+CRC
+324
+325
+326
+FNC1_SECOND_POSITION
+327
+true
+328
+androidx.lifecycle.internal.SavedStat...
+329
+US/CA
+SSHORT
+NonCancellable
+TLS_RSA_WITH_NULL_SHA256
+low_stock_alerts
+UNDISPATCHED
+DISK
+org.conscrypt.Conscrypt$Version
+HEAD
+statusLine
+Src
+G3112
+SubjectDistance
+TLS_RSA_WITH_AES_256_GCM_SHA384
+ACTION_SCROLL_RIGHT
+GetScrollViewportLength
+G3116
+Clear
+asyncTraceEnd
+330
+331
+332
+333
+CustomRendered
+334
+systemBarsIgnoringVisibility
+TLS_KRB5_EXPORT_WITH_RC4_40_MD5
+335
+336
+android.permission.ACCESS_NETWORK_STATE
+STARTED
+Inactive
+Round
+subtotalCents
+NeverEqualPolicy
+timeUnit
+G3121
+G3123
+DONE_RCV
+G3125
+POSSIBLE_FORMATS
+Error
+$this$LazyVerticalGrid
+Blackview
+340
+lk.craftkart.pos.data.AppRepository$c...
+Trace
+341
+342
+androidx.core.view.inputmethod.Editor...
+343
+344
+345
+346
+collectionItemInfo
+bytes
+Closed
+347
+U50APLUSTMO
+348
+Completed
+349
+UNINITIALIZED
+callback
+RESUME_TOKEN
+socket
+ACTION_PASTE
+LightSource
+android.graphics.FontFamily
+Vertical
+00
+01
+02
+PUBLICATION
+navigationBarsIgnoringVisibility
+argumentName
+Dialog:
+350
+351
+352
+observer
+353
+354
+355
+Unknown
+356
+java.lang.Long
+357
+LAST30
+TRACE_TAG_APP
+UPC_A
+PROTOCOL_ERROR
+UPC_E
+released
+10
+11
+imeAnimationSource
+TLS_KRB5_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+12
+Armor_3
+13
+15
+17
+Armor_6
+0x%02x
+Butt
+360
+361
+362
+363
+input_method
+364
+365
+366
+wss:
+367
+slopeArray
+PartiallyExpanded
+SSL_DH_anon_WITH_RC4_128_MD5
+defaultCreationExtras
+368
+369
+unique
+Expand
+TLS_ECDHE_ECDSA_WITH_NULL_SHA
+setCurrentState
+SSL_DH_anon_WITH_3DES_EDE_CBC_SHA
+TLS_PSK_WITH_RC4_128_SHA
+TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384
+20
+statusCode
+21
+SubjectDistanceRange
+22
+components
+TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384
+One
+kotlin.Function
+0x
+MISSING_CAMERA_PERMISSION_DIALOG_MESSAGE
+ISO8859_8
+URATIONAL
+ISO8859_9
+ISO8859_6
+long
+ISO8859_7
+PlanarConfiguration
+min
+kotlinx.coroutines.channels.defaultBu...
+ACTION_PAGE_DOWN
+MEMORY
+classes_to_restore
+tlsVersions
+isTraversalGroup
+Exclusion
+supports
+getBoolean
+30
+8200
+RowsPerStrip
+37
+INEXACT
+p.second
+onOpenCustomer
+:method
+STRING
+selectProtocol
+ASSUME_CODE_39_CHECK_DIGIT
+GPSDestDistance
+TLS_DH_anon_WITH_AES_128_GCM_SHA256
+/proc/self/fd
+ALLOWED_LENGTHS
+android.widget.EditText
+LocalFontLoader
+open
+NO_DECISION
+JPEGInterchangeFormat
+contentDataType
+OnLongClick
+navigator
+ShuttingDown
+00000
+PasteText
+390
+391
+392
+Filled.QrCodeScanner
+393
+DESC
+originalRequest
+FontFamily.Default
+TLS_DHE_RSA_WITH_AES_256_GCM_SHA384
+androidx.profileinstaller.action.INST...
+nativeCanvas
+ON_START
+KEY_COMPONENT_ACTIVITY_LAUNCHED_KEYS
+getAccessibilityViewId
+kotlinx.coroutines.io.parallelism
+TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+PADDED
+onOpenReports
+AZTEC
+TRY_HARDER
+android.resource
+last30
+collection
+WARNING
+Filled.ShoppingCart
+immutable
+SCAN_RESULT
+profileInstalled
+GainControl
+androidx.lifecycle.internal.SavedStat...
+allow
+TLS_RSA_WITH_AES_128_CBC_SHA256
+expires
+IsEditable
+_isTerminated$volatile
+TLS_
+Compose:applyChanges
+ColorBurn
+evert
+Empty
+onBackPressedCallback
+stock_adjustments
+TLS_RSA_WITH_AES_128_CBC_SHA
+android.view.accessibility.extra.EXTR...
+TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA
+SetProgress
+summary
+registry
+OffsetTimeDigitized
+_decisionAndIndex$volatile
+setCookie
+REPORT
+PUT
+$this$LazyRow
+debug.layout
+trustManager.acceptedIssuers
+LocalResourceIdCache
+java.lang.Object
+comment
+SCAN_RESULT_FORMAT
+base
+dexopt/baseline.profm
+Location
+kotlinx.coroutines.bufferedChannel.se...
+setUseSessionTickets
+Strictness.Normal
+prefix
+HTTP_1_1_REQUIRED
+ImageVector
+getMethod
+LiveRegion
+state1
+getViewRootImpl
+delimiter
+permissions
+superclass
+90
+91
+92
+93
+94
+NONE
+95
+96
+address.hostAddress
+TLS_DH_anon_WITH_AES_128_CBC_SHA
+97
+98
+invoice_
+99
+kotlinx.coroutines.semaphore.maxSpinC...
+ShutDown
+onFetchFocusRect
+sslSocketSession
+java.util.Set
+cacheControl
+TLS_ECDHE_ECDSA_WITH_RC4_128_SHA
+Suffix
+Switch
+SensorRightBorder
+TopBar
+result_code
+SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA
+_delayed$volatile
+DELETE_SKIP_FILE
+Heading
+SSL_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA
+kotlin.collections.MutableMap
+androidx.compose.ui.semantics.id
+TLS_ECDH_anon_WITH_RC4_128_SHA
+signature
+ActivityResultRegistry
+createFromFamiliesWithDefault
+Big5
+CONNECT
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+Clip
+savedStateRegistry
+SCAN_RESULT_BYTE_SEGMENTS_
+NO_THREAD_ELEMENTS
+INTERRUPTED_SEND
+Visible
+velocityVector
+DOUBLE
+event
+TLS_EMPTY_RENEGOTIATION_INFO_SCSV
+PENDING
+androidx.profileinstaller.action.BENC...
+$this$Canvas
+updateSemanticsNodesCopyAndPanes
+TransferFunction
+Tab
+receipt_thanks
+outState
+ALLOWED_EAN_EXTENSIONS
+SensorTopBorder
+java.lang.Comparable
+ACTION_SET_TEXT
+DstAtop
+caCerts
+UnfocusedEmpty
+Done
+BLOB
+hostLifecycleState
+imagePath
+Characters
+CODABAR
+Tax
+Cursor
+float
+BitsPerSample
+reference
+Gamma
+Filled.Payments
+java.lang.Enum
+$this$ExposedDropdownMenuBox
+GPSVersionID
+progressBarRangeInfo
+TextField
+from
+caCert.subjectX500Principal
+Client
+android.permission.POST_NOTIFICATIONS
+enqIdx$volatile
+customer_groups
+offset
+Strategy.Balanced
+connectionPool
+_exceptionsHolder$volatile
+StopInput
+kotlin.collections.MutableList
+0123456789abcdef
+Softlight
+ISO8859_4
+ISO8859_5
+ISO8859_2
+ISO8859_3
+ISO8859_1
+DATA
+$this$navArgument
+UTF8
+ThumbnailImage
+Content
+androidx.core.view.inputmethod.Editor...
+file_id
+com.google.zxing.client.android.SCAN
+INSERT
+Software
+$this$ExposedDropdownMenu
+replacement
+Filled.Edit
+ime
+$onBackInvoked
+AndroidOwner:measureAndLayout
+android.text.EmojiConsistency
+configuration
+producerIndex$volatile
+ACTION_CUT
+localRect
+Strictness.Unspecified
+org.eclipse.jetty.alpn.ALPN$Provider
+kotlin.Byte
+_parentHandle$volatile
+public
+array
+sendEvent
+balanceCents
+journalMode
+SelectableGroup
+postfix
+WEEK
+value
+TOTAL
+TextMotion.Animated
+REUSABLE_CLAIMED
+quantity
+0x%08x
+TestTag
+resources
+fontMetrics
+Filled.Settings
+command
+int
+GPSDestLongitudeRef
+LensMake
+uriPattern
+androidx.activity.result.contract.act...
+RSS_14
+Xmp
+TLS_DHE_RSA_WITH_CAMELLIA_256_CBC_SHA
+requestedPathSegments
+UPC_EAN_EXTENSION
+providers
+customers/detail/
+exception
+CREDIT
+_state$volatile
+StandardOutputSensitivity
+IsTraversalGroup
+androidx.activity.result.contract.ext...
+AutoMirrored.Filled.ArrowBack
+String
+SETTINGS
+ExitTransition.None
+via
+CROSSED
+$this$LazyColumn
+A3
+Compose:sideeffects
+GPSSpeed
+display_photo
+androidx.view.accessibility.Accessibi...
+WordBreak.Unspecified
+getUncaughtExceptionPreHandler
+EUC_CN
+VerbatimTts
+AndroidOwner:onTouch
+androidx.activity.result.contract.act...
+type.enumConstants
+AE
+upgrade
+receiveCatching
+AM
+SetSelection
+onBackProgressed
+RCT6873W42BMF9A
+AR
+AT
+AU
+kotlin.jvm.functions.
+kotlinx.coroutines.scheduler.default....
+onMenuKeyEvent
+failedRoute
+AZ
+Xor
+clientProviderClass
+BA
+BC
+VerticalScrollAxisRange
+publicsuffixes.gz
+BG
+BH
+UnicodeBig
+GB18030
+BO
+accent_index
+LayingOut
+BR
+http/1.1
+DIRTY
+http/1.0
+ContentOrLtr
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+.OpenSSLSocketImpl
+android.intent.extra.STREAM
+BY
+customerId
+LocalInputManager
+TLS_ECDH_anon_WITH_3DES_EDE_CBC_SHA
+close
+CA
+EmojiCompat.EmojiCompatInitializer.run
+onManageCategories
+onChanged
+CH
+RESULT_PARSE_EXCEPTION
+CI
+ColorDodge
+Z2_PRO
+CameraOwnerName
+CL
+Hyphens.None
+CN
+CO
+Compose:recompose
+CR
+TLS_DHE_DSS_WITH_AES_256_CBC_SHA256
+androidx.lifecycle.viewmodel.internal...
+V0330WW
+coil.request.GlobalLifecycle
+CU
+androidx.lifecycle.BundlableSavedStat...
+CY
+this$0
+CZ
+lastTargetValue
+RST_STREAM
+Initial
+Startup
+acc
+ULONG
+DE
+BARCODE_IMAGE_ENABLED
+GPSAltitude
+notes
+Email
+referent
+ImageUniqueID
+DK
+androidx.profileinstaller.action.SKIP...
+DO
+Miter
+Gpu
+TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY130...
+addSuppressed
+okhttp.TaskRunner
+DZ
+ACTION_SET_PROGRESS
+ThumbnailImageWidth
+RESULT_OK
+protocols
+androidx.core.view.inputmethod.Editor...
+EC
+_resumed$volatile
+add
+EE
+SCAN_RESULT_BYTES
+EG
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+surefire.test.class.path
+index_
+RadioButton
+encoding
+BYTE_SEGMENTS
+ES
+warnIfOpen
+paymentMethod
+http
+exchange
+stateDescription
+SCAN_CAMERA_ID
+private
+textSubstitution
+_invoked$volatile
+kotlin.collections.MutableCollection
+FI
+ACTION_CLEAR_FOCUS
+PixelYDimension
+Em
+KANJI
+ACTION_SCROLL_BACKWARD
+FR
+Filled.MenuBook
+FlashpixVersion
+WordBreak.Phrase
+WhiteBalance
+android.graphics.drawable.VectorDrawable
+onMoveFocusInChildren
+FontProvider.getFontFamilyResult
+GB
+oldValue
+:authority
+GE
+ACTION_SCROLL_UP
+GH
+BITMAP_MASKABLE
+SCAN_ORIENTATION_LOCKED
+Down
+discountPercent
+seqno
+checkForSemanticsChanges
+androidx.view.accessibility.Accessibi...
+UserInput
+http://ns.adobe.com/xap/1.0/
+label
+GR
+message
+WRITE_ONLY
+ISSUE_NUMBER
+GT
+ACTION_DRAG_DROP
+Mouse
+Offset.Unspecified
+Measuring
+Previous
+FontProvider.getProvider
+START
+ImeAction
+PageDown
+ROOM
+age
+tail$volatile
+grantResults
+HK
+onManageGroups
+A3_Pro
+HN
+UNDEFINED
+Go
+GPSTimeStamp
+G3412
+HR
+isShowingTextSubstitution
+PostExit
+G3416
+HU
+ACTION_CONTEXT_CLICK
+UPI
+SAVED_ORIENTATION_LOCK
+craftkart.db
+TLS_ECDH_RSA_WITH_NULL_SHA
+dexopt/baseline.prof
+BYTE
+kotlinx.coroutines.internal.StackTrac...
+Hidden
+androidx.view.accessibility.Accessibi...
+ID
+createSegment
+IE
+_isCompleted$volatile
+EUC_KR
+IL
+IN
+G3421
+FileSource
+REFUSED_STREAM
+FocalLengthIn35mmFilm
+SCAN_MODE
+G3423
+IR
+handle
+runningWorkers$volatile
+IS
+androidx.compose.ui.input.pointer.Poi...
+IT
+G3426
+system
+400
+Top
+401
+receipt_contact
+402
+403
+insertIndex
+404
+FLOA
+RESULT_NOT_WRITABLE
+etag
+.dp
+%02d:%02d:%02d
+PROPPATCH
+ImageBitmap
+navigatorProvider
+Snackbar
+RESULT_INSTALL_SKIP_FILE_SUCCESS
+Strictness.Loose
+other
+JO
+JP
+libcore.io.DiskLruCache
+CASCADE
+routeDatabase
+streamCode
+URI
+protocolSelected
+valueVector
+androidx$room$IMultiInstanceInvalidat...
+fffe
+LocalViewConfiguration
+410
+androidx.view.accessibility.Accessibi...
+411
+Strategy.Simple
+412
+kotlin.Long
+413
+.em
+PING
+414
+androidx.view.accessibility.Accessibi...
+Completing
+Style
+UPDATE
+KE
+ALIGN_LEFT
+head$volatile
+Focused
+TLS_AES_128_CCM_8_SHA256
+newBase
+KP
+KR
+GPSHPositioningError
+One_Pro
+Text
+gzip
+KW
+Lab
+KZ
+420
+421
+422
+423
+RSS_EXPANDED
+LB
+424
+anchor
+425
+426
+Xyz
+DESTROYED
+LK
+GPSLatitude
+referer
+Compression
+SINGLE
+ATOMIC
+kotlin.collections.Collection
+ExposureProgram
+UTC
+_decision$volatile
+businessName
+LT
+getAlpnSelectedProtocol
+paneTitle
+LV
+body
+LY
+FERMI_TF
+receivers$volatile
+MA
+MD
+TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA
+Hyphens.Auto
+buffer
+0.0..0.0
+MK
+FNumber
+ali
+all
+settings
+MN
+HTTP_1_0
+MO
+systemGestures
+uriPathSegments
+read
+HTTP_1_1
+MT
+MU
+OpenSSLSocketImpl
+MagnifierPositionInRoot
+MX
+MY
+LocalAutofillTree
+unit
+java.util.List
+lastScheduledTask$volatile
+scrollAxisRange
+imeAnimationTarget
+kotlin.Int
+queryParam
+NI
+ImageDescription
+NL
+NO
+okio.Okio
+handleLifecycleEvent
+%2e.
+Indeterminate
+COMPLETING_ALREADY
+TLS_KRB5_WITH_RC4_128_SHA
+media
+READ_ONLY
+java.lang.Iterable
+MakerNote
+kotlinx.coroutines.DefaultExecutor.ke...
+OffsetTime
+Phone
+today
+YCbCrPositioning
+Modifier
+androidx.activity.result.contract.ext...
+Collapse
+Conscrypt
+Keyboard
+SJIS
+Host
+DATA_MATRIX_MODE
+getContentCaptureSessionCompat
+super
+PA
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+application
+PE
+PH
+SLONG
+PK
+PL
+registerOnEndApplyChangesListener
+Main
+EUC_JP
+On
+LineHeightStyle.Alignment.Proportional
+reason
+saleId
+PT
+Cp437
+_prev$volatile
+PY
+sqLiteDatabase
+layoutResult
+AccessibilityNodeInfo.roleDescription
+tableName
+ANIM
+SSL_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA
+TLS_KRB5_WITH_DES_CBC_MD5
+android.widget.HorizontalScrollView
+emojiCompat
+.pdf
+TypefaceCompatApi29Impl
+NO_CLOSE_CAUSE
+androidx$room$IMultiInstanceInvalidat...
+QUIC
+Cp1256
+ERROR
+onNavigate
+Cp1251
+setQuery
+Cp1252
+androidx.compose.ui.platform.AndroidC...
+Cp1250
+maxState
+rjames_f
+Trailers
+Make
+000
+verticalScrollAxisRange
+dbObj
+targetVector
+A3A_8_4G_TMO
+_COROUTINE.
+_closeCause$volatile
+Expires
+TaskStackBuilder
+REMOVE_FROZEN
+RO
+.tmp
+_Impl
+RU
+SSL_RSA_WITH_3DES_EDE_CBC_SHA
+connectionCode
+Filled.Storefront
+android.view.accessibility.extra.DATA...
+SSL_RSA_EXPORT_WITH_DES40_CBC_SHA
+kotlinx.coroutines.semaphore.segmentSize
+androidx.savedstate.Restarter
+DROP_SHADER_CACHE
+SA
+kotlin.collections.ListIterator
+SE
+GPSLatitudeRef
+SG
+POSSIBLE_COUNTRY
+waterfall
+SI
+$this$popUpTo
+TLS_ECDH_RSA_WITH_AES_256_CBC_SHA
+SK
+:status
+SSL_RSA_WITH_RC4_128_SHA
+outBundle
+TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDH_RSA_WITH_RC4_128_SHA
+cam_
+LocalSavedStateRegistryOwner
+ACTION_SELECT
+EDISON_TF
+Rs
+SV
+SY
+ComponentsConfiguration
+inputParams
+call
+TE
+TH
+kotlin.Char
+TN
+triggerType
+ACTION_ARGUMENT_EXTEND_SELECTION_BOOLEAN
+Sp
+TR
+SrcOver
+.%2e
+Other
+navigationIcon
+$name
+7002
+TW
+7001
+TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA
+onValueChange
+java.util.ListIterator
+GPSAltitudeRef
+7003
+groupId
+Label
+DefaultDispatcher
+android.view.accessibility.extra.EXTR...
+kotlin.Double
+UA
+GPSMapDatum
+lifecycle
+view
+.OpenSSLSocketFactoryImpl
+segment
+ANMF
+CTRL_DL
+Disabled
+javaName
+US
+testTag
+0000000000
+unreachable
+org.eclipse.jetty.alpn.ALPN
+UY
+UZ
+androidx.core.view.inputmethod.Editor...
+PreviewImageStart
+VE
+byteString
+GPSDestLongitude
+AccessibilityDelegate
+name
+VN
+TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256
+Up
+SceneCaptureType
+TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA
+getDescriptor
+distance
+string
+U50A_ATT
+IFD
+kotlin.coroutines.jvm.internal.BaseCo...
+TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256
+description
+java.lang.module.ModuleDescriptor
+lastInitialValue
+sQLiteDatabase
+rwt
+Justify
+SrcIn
+LineThrough
+androidx.view.accessibility.Accessibi...
+statement
+navigationBarStyle
+CTRL_BS
+SUSPEND_NO_WAITER
+Dispatchers.Main
+TraversalIndex
+collectionInfo
+TREAT_AS_VIEW_TREE_APPEARING
+chunked
+Cancelled
+receipt_
+callbackName
+graphicsLayer
+target
+.lck
+receipts
+Filled.Delete
+PrimaryChromaticities
+what
+customers/edit
+$command
+android.view.contentcapture.EventTime...
+window
+U50A_PLUS_ATT
+$this$TextButton
+PURE_BARCODE
+Cancelling
+TLS_DH_anon_WITH_AES_256_GCM_SHA384
+MainContent
+sendSegment$volatile
+.sp
+peerName
+EmptyCoroutineContext
+onEdit
+ACTION_ARGUMENT_SELECTION_END_INT
+CPU_ACQUIRED
+ExposureTime
+END_HEADERS
+Z2
+YU
+cash
+Z9
+item
+kotlinx.coroutines.scheduler.core.poo...
+kotlinx.coroutines.scheduler.max.pool...
+topSellers
+double
+ZA
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5
+Darken
+RelatedSoundFile
+getLocalLifecycleOwner
+phone
+kotlin.Short
+Low
+mRecreateDisplayList
+android.software.leanback
+org.openjsse.net.ssl.OpenJSSE
+GPSTrack
+BLOCKING
+card
+SceneType
+tappableElementIgnoringVisibility
+repo
+CHAR
+captionBarIgnoringVisibility
+networkResponse
+Span
+TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256
+kotlinx.coroutines.bufferedChannel.ex...
+AZTEC_MODE
+okhttp3.
+UTF_8
+TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_...
+LAZY
+resuming_sender
+categories
+internalOpenHelper
+SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA
+FRAME_SIZE_ERROR
+java.util.Map$Entry
+VP8L
+LensModel
+ECI
+VP8X
+journal.tmp
+StartInput
+indicator
+kotlinx.coroutines.fast.service.loader
+ScrollToIndex
+EmojiCompatInitializer
+kotlin.Any
+KEY_COMPONENT_ACTIVITY_REGISTERED_RCS
+coroutineContext
+backStackEntryId
+ISOSpeed
+notification
+protocol
+CTRL_LL
+LocalLayoutDirection
+SSL_DH_anon_EXPORT_WITH_RC4_40_MD5
+proxyAuthenticator
+android.view.View
+java.lang.Byte
+keyboardActions
+contentType
+android.view.accessibility.action.ARG...
+UnfocusedNotEmpty
+.fileprovider
+updateEnabledCallbacks
+nora_8917_n
+Filled.ReceiptLong
+FontFamily.SansSerif
+actionIcons
+CANCELLED
+CTRL_ML
+DropdownList
+editableText
+effect
+One_Max
+PUSH_PROMISE
+kotlin.collections.Iterator
+CLOSED_EMPTY
+job
+SetTextSubstitution
+RCT6A03W13
+nextFunction
+lowStockThreshold
+systemBars
+NEED_RESULT_POINT_CALLBACK
+unexpected
+SupportSQLite
+com.google.android.gms.org.conscrypt.
+NO_RECEIVE_RESULT
+END_STREAM
+PageRight
+Ltr
+Touch
+INT
+AUTOMATIC
+database
+kotlin.Enum
+backEvent
+Trailing
+SSL_
+sendSemanticsPropertyChangeEvents
+Dalvik
+TLS_DHE_DSS_WITH_CAMELLIA_256_CBC_SHA
+SensorBottomBorder
+Flash
+$this$navOptions
+Size.Unspecified
+getDeclaredField
+ACTION_PREVIOUS_HTML_ELEMENT
+CLOB
+ILA_X1
+invalidateNodes
+Ellipsis
+rstStatusCode
+androidx.lifecycle.savedstate.vm.tag
+WindowInsetsCompat
+SCAN_RESULT_ORIENTATION
+confirmLabel
+Filled.CheckCircle
+MEMORY_CACHE
+IsPopup
+DeviceSettingDescription
+getModule
+owner$volatile
+TLS_DHE_DSS_WITH_AES_256_GCM_SHA384
+ISO8859_10
+android.widget.ProgressBar
+ISO8859_11
+SETTINGS_TIMEOUT
+ISO8859_13
+ISO8859_14
+ISO8859_15
+ISO8859_16
+compose:lazy:prefetch:measure
+popUpTo
+setAlpnProtocols
+RecommendedExposureIndex
+GPSSpeedRef
+0000
+androidx.lifecycle.LifecycleDispatche...
+PerformImeAction
+getSuppressed
+ACTION_UNKNOWN
+defaultLifecycleObserver
+s3.d
+httponly
+publicSuffixListBytes
+SHOULD_BUFFER
+LineHeightStyle.Alignment.Center
+finder
+traceCounter
+canceled
+proxy
+kotlinx.coroutines.scheduler.resoluti...
+kotlin.Unit
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA
+FocalLength
+kotlin.jvm.internal.StringCompanionOb...
+FontProvider.query
+DpOffset.Unspecified
+ContentDescription
+ACTION_CLICK
+N5501LA
+view.resources
+scheme
+:memory:
+PageLeft
+icon
+_availablePermits$volatile
+%02d
+TLSv1
+customers
+Selected
+seq
+androidx.compose.text.SpanStyle
+updateState
+completion
+androidx.view.accessibility.Accessibi...
+java.io.tmpdir
+set
+COMPRESSION_ERROR
+ISO
+ACTION_IME_ENTER
+Strictness.Strict
+ACK
+HANZI
+Dp.Unspecified
+evert_n
+_reusableCancellableContinuation$vola...
+QR_CODE_MODE
+DOUB
+REL
+ACTION_NEXT_AT_MOVEMENT_GRANULARITY
+ITF
+android.support.PARENT_ACTIVITY
+room_fts_content_sync_
+config
+db
+ReferentialEqualityPolicy
+journal.bkp
+NavController
+Difference
+TLS_DHE_DSS_WITH_AES_128_GCM_SHA256
+ACTION_DRAG_CANCEL
+Filled.PhotoCamera
+composable
+androidx.view.accessibility.Accessibi...
+contact
+Underline
+USHORT
+SSL_DH_anon_WITH_DES_CBC_SHA
+uriHost
+Filled.Person
+Failed
+Color
+en
+NonDisposableHandle
+SCAN_TYPE
+PATCH
+RectangleShape
+ShowTextSubstitution
+Dismiss
+Filled.Inventory2
+debugData
+ACTION_ACCESSIBILITY_FOCUS
+taxAmountCents
+https:
+isDirectory
+frame
+ThumbnailImageLength
+ACTION_LONG_CLICK
+measureAndLayout
+SRATIONAL
+origin
+h2
+paramName
+content
+timeout
+Number
+TLS_ECDH_ECDSA_WITH_RC4_128_SHA
+client
+java.vm.name
+Hue
+FNC1_FIRST_POSITION
+ws:
+parkedWorkersStack$volatile
+false
+PROPFIND
+getDeclaredMethod
+F16
+SubSecTimeDigitized
+Sharpness
+Middle
+PendingWork
+SCAN_RESULT_ERROR_CORRECTION_LEVEL
+onBack
+referenceColumnNames
+500
+Ascii
+ScrollByOffset
+$query
+com.android.org.conscrypt
+TREAT_AS_VIEW_TREE_APPEARED
+ACTION_MOVE_WINDOW
+CameraConfiguration
+android.support.text.emoji.emojiCompa...
+WINDOW_UPDATE
+modes
+select
+Edison_CKT
+TEXT
+invoke
+Image
+clipboard
+_queue$volatile
+DateTime
+thanks
+authorization
+onRequestFocusForOwner
+output
+Filled.Info
+Filled.Share
+sale_items
+publicSuffixExceptionListBytes
+BottomBar
+androidx.compose.ui.input.nestedscrol...
+java.lang.Character
+context
+id
+https
+%07x
+dispatcher
+Exit
+refundedCents
+S80Lite
+Filled.Warning
+it
+UNDECIDED
+IndexForKey
+NioSystemFileSystem
+columnsMap.values
+kotlin.jvm.internal.
+5d9bbf7bcb7137c5a4910d9e767bda0a
+Cmyk
+charset
+Filled.Home
+http:
+Discount
+SSL_DHE_DSS_WITH_DES_CBC_SHA
+extras
+Uri
+Url
+delegate
+Authorization
+kg
+bundle
+plugged
+table
+TLS_ECDHE_RSA_WITH_RC4_128_SHA
+kotlin.jvm.functions.Function
+receiveSegment$volatile
+GPSLongitude
+off
+MISSING_CAMERA_PERMISSION
+ReferenceBlackWhite
+android.widget.ScrollView
+currentTimeMillis
+vat_percent
+ResolutionUnit
+/data/misc/profiles/ref/
+Locale
+ALL
+auto
+android:text
+STRUCTURED_APPEND_SEQUENCE
+backStackEntry
+suffix
+MAXICODE
+cleanedAndPointers$volatile
+_size
+that
+argName
+TLS_NULL_WITH_NULL_NULL
+onDone
+android.resource://
+TextFieldInputState
+PROMPT_MESSAGE
+invoiceNo
+TLS_ECDHE_PSK_WITH_AES_128_CBC_SHA
+coil.request.NullRequestData
+updatedAt
+kotlin.Number
+ThumbnailOrientation
+FILL
+NULL
+TOO_LATE_TO_CANCEL
+Dst
+ms
+PhotographicSensitivity
+TLS_DHE_DSS_WITH_AES_256_CBC_SHA
+onNewCustomer
+Filled.Refresh
+CompressedBitsPerPixel
+Range
+trailers
+entry
+TLS_ECDH_RSA_WITH_AES_128_CBC_SHA
+focused
+canonicalPath
+nextInvoiceNo
+Exif
+p0
+$this$NavHost
+VACUUM
+TLS_ECDH_anon_WITH_NULL_SHA
+keys
+box
+androidx.compose.ui.semantics.testTag
+addFontFromBuffer
+sql
+$this$ElevatedCard
+dialog
+SupportSQLiteLock
+inParcel
+ACTION_SCROLL_LEFT
+kotlin.Comparable
+HTTP/1.
+groupSlotIndex
+on
+macro
+baseKey
+UserComment
+LensSpecification
+pettyl
+GPSDOP
+TLS_DH_anon_WITH_AES_128_CBC_SHA256
+COROUTINE_SUSPENDED
+android.widget.Spinner
+GPSInfoIFDPointer
+TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+PDF417_EXTRA_METADATA
+DefaultCropSize
+_LifecycleAdapter
+LineHeightStyle.Alignment.Top
+ENABLED
+CLEAN
+pk
+Artist
+handler
+ALPHANUMERIC
+EditableText
+metadata
+MONTH
+vary
+TLS_DH_anon_WITH_AES_256_CBC_SHA256
+setHostname
+U50A_PLUS_TF
+delta
+STRUCTURED_APPEND_PARITY
+createAsync
+.Companion
+KING_KONG_3
+SubSecTimeOriginal
+itemName
+freeze
+ASSUME_GS1
+java.util.Map
+Painter
+BEEP_ENABLED
+/data/misc/profiles/cur/0
+CODE_128
+proxyAddress
+Overlay
+TextDecoration.None
+Cookie
+RSA
+business_name
+drawable
+ACTION_NEXT_HTML_ELEMENT
+application/pdf
+insertReorderBarrier
+BodySerialNumber
+SpectralSensitivity
+invoker
+kotlin.Array
+accept
+ACTION_COLLAPSE
+node
+android.media.action.IMAGE_CAPTURE
+CONDITION_FALSE
+posArray
+starting
+HideKeyboard
+androidx.activity.result.contract.ext...
+hostName
+ExposureBiasValue
+RESULT_CANCELED
+activity
+TLS_RSA_WITH_AES_128_GCM_SHA256
+rw
+h2_prior_knowledge
+FHCRC
+ASC
+DELETE
+current
+si
+SHOW_MISSING_CAMERA_PERMISSION_DIALOG
+RCT6T06E13
+ACTION_SCROLL_TO_POSITION
+audio
+$this$$receiver
+NO_ERROR
+key
+kotlin.Enum.Companion
+RESOURCE
+animator_duration_scale
+profileinstaller_profileWrittenFor_la...
+GPSAreaInformation
+ACTION_EXPAND
+window.decorView
+WRITE_SKIP_FILE
+kotlin.Float
+store
+_next$volatile
+GPSMeasureMode
+S70
+TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+te
+SSL_RSA_WITH_NULL_MD5
+systemFileSystem
+deepLink
+Words
+closed
+compressed
+to
+C210AE
+efbbbf
+PDF417_MODE
+horizontalScrollAxisRange
+index_items_categoryId
+dest
+createdAt
+ReusedSlotId
+edof
+item_images
+BROKEN
+Hyphens.Unspecified
+Dispatchers.Default
+mcv3
+kotlinx.coroutines.flow.defaultConcur...
+NETWORK
+TLS_AES_128_GCM_SHA256
+sink
+query
+java.util.Collection
+CLOSE_HANDLER_CLOSED
+HIDDEN
+PreventUserInput
+N5002LA
+image_cache
+bufferEndSegment$volatile
+ffff0000
+failure
+hint
+NOT_IN_STACK
+closeHandler$volatile
+viewModel
+OffsetTimeOriginal
+desc
+removeObserver
+destination
+ON_DESTROY
+consumerIndex$volatile
+TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384
+wa
+inventory
+abortCreation
+LocalContext
+ImageProcessingIFDPointer
+RESULT_ALREADY_INSTALLED
+SSL_RSA_EXPORT_WITH_RC4_40_MD5
+backing
+FontsProvider
+TLS_ECDH_anon_WITH_AES_128_CBC_SHA
+ONE_D_MODE
+TLS_ECDH_ECDSA_WITH_NULL_SHA
+wt
+text/plain
+8002
+8003
+8001
+8006
+8007
+Saturation
+TextLayout:initLayout
+8004
+DropDownMenu
+8005
+isRegularFile
+000000000
+Dispatchers.Main.immediate
+invalidatedTablesIds
+SSL_3_0
+Compose:onRemembered
+statusBarsIgnoringVisibility
+location
+REMOVED_TASK
+FLOW_CONTROL_ERROR
+SrcOut
+$this$TopAppBar
+ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY
+OpenJSSE
+GPSProcessingMethod
+triggerName
+8018
+SCAN_RESULT_IMAGE_PATH
+none
+type
+repository
+LocalView
+STREAM_CLOSED
+lk.craftkart.pos.data.AppRepository$r...
+statusBars
+FocalPlaneResolutionUnit
+Argb8888
+connection
+8008
+cont
+Finished
+IsShowingTextSubstitution
+ACTION_ARGUMENT_MOVEMENT_GRANULARITY_INT
+method
+_display_name
+CONSUMED
+socketFactory
+Dimension.Undefined
+refHolder
+inetSocketAddress
+PreviewImageLength
+8020
+ShowKeyboard
+ACTION_ARGUMENT_SELECTION_START_INT
+android.support.text.emoji.emojiCompa...
+SpatialFrequencyResponse
+saveableStateHolderRef
+TLS_KRB5_WITH_3DES_EDE_CBC_MD5
+Next
+NOT_CROSSED
+ACTION_FOCUS
+evert_nt
+java.lang.Double
+columns
+james
+range
+ColorAnimation
+refunds
+out
+get
+c.columnNames
+java.lang.Number
+fireball
+DATA_MATRIX
+bufferEnd$volatile
+QR_CODE
+controlState$volatile
+TLS_PSK_WITH_3DES_EDE_CBC_SHA
+initializer
+android.view.accessibility.extra.DATA...
+expect
+LocalTextToolbar
+ShutterSpeedValue
+elements
+Model
+URI_MASKABLE
+SHIFT6m
+SelectionEnd
+ON_CREATE
+date
+argument
+nora
+androidx.graphics.path
+data
+ON_RESUME
+TLS_ECDHE_RSA_WITH_NULL_SHA
+org.eclipse.jetty.alpn.ALPN$ServerPro...
+LocalConfiguration
+sales
+Filled.ArrowDropDown
+asyncTraceBegin
+JpgFromRaw
+InteroperabilityIFDPointer
+IsDialog
+LocalUriHandler
+GB2312
+NewSubfileType
+EmojiCompat.FontRequestEmojiCompatCon...
+SYNCHRONIZED
+PageUp
+0000ffff
+LocalHapticFeedback
+TextMotion.Static
+kotlin.jvm.internal.EnumCompanionObject
+RESULT_UNSUPPORTED_ART_VERSION
+ACTION_COPY
+Pragma
+SGINO6
+onEditItem
+LineHeightStyle.Trim.Both
+TLS_ECDHE_PSK_WITH_AES_256_CBC_SHA
+Active
+android.widget.TextView
+kotlin.collections.Iterable
+onOpenSale
+onConfirm
+navDeepLink
+Filled.Remove
+endVelocityVector
+send
+CameraSettingsIFDPointer
+week
+kotlin.collections.Map.Entry
+ISOSpeedLatitudeyyy
+image/jpeg
+ScrollBy
+Screen
+aljeter_n
+link
+GPSSatellites
+GPSDestLatitude
+sqLiteQuery
+DateTimeOriginal
+ExposureIndex
+CopyText
+PhotometricInterpretation
+leadingIcon
+kotlin.collections.Set
+TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384
+android.intent.action.SEND
+androidx.activity.result.contract.ext...
+factory
+ISIZE
+tappableElement
+LineHeightStyle.Trim.LastLineBottom
+JPEGInterchangeFormatLength
+java.util.Iterator
+focusProperties
+Supporting
+groups
+removeIndex
+jar:file:
+ON_STOP
+Parcelizer
+kotlin.CharSequence
+RESULT_IO_EXCEPTION
+intent
+.path
+FIT
+findTrustAnchorByIssuerAndSignature
+boolean
+migrations
+Used
+SrcAtop
+VanillaIceCream
+arguments
+Popup:
+category
+emit
+LocalWindowInfo
+Marking string:sale_complete:2131362007 used because it matches string pool constant sale
+Marking string:sale_detail:2131362008 used because it matches string pool constant sale
+Marking string:sale_saved:2131362009 used because it matches string pool constant sale
+Marking string:sales_history:2131362010 used because it matches string pool constant sale
+Marking string:reports:2131362006 used because it matches string pool constant reports
+Marking string:remove:2131361995 used because it matches string pool constant remove
+Marking string:catalog:2131361821 used because it matches string pool constant catalog
+Marking id:blocking:2131034152 used because it matches string pool constant block
+Marking string:orders_today:2131361961 used because it matches string pool constant orders
+Marking string:language:2131361870 used because it matches string pool constant lang
+Marking string:language_changed:2131361871 used because it matches string pool constant lang
+Marking id:accessibility_action_clickable_span:2131034112 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_0:2131034113 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_1:2131034114 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_10:2131034115 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_11:2131034116 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_12:2131034117 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_13:2131034118 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_14:2131034119 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_15:2131034120 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_16:2131034121 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_17:2131034122 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_18:2131034123 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_19:2131034124 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_2:2131034125 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_20:2131034126 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_21:2131034127 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_22:2131034128 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_23:2131034129 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_24:2131034130 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_25:2131034131 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_26:2131034132 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_27:2131034133 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_28:2131034134 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_29:2131034135 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_3:2131034136 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_30:2131034137 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_31:2131034138 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_4:2131034139 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_5:2131034140 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_6:2131034141 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_7:2131034142 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_8:2131034143 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_9:2131034144 used because it matches string pool constant accessibility
+Marking string:quick_actions:2131361973 used because it matches string pool constant quic
+Marking string:state_empty:2131362021 used because it matches string pool constant state
+Marking string:state_off:2131362022 used because it matches string pool constant state
+Marking string:state_on:2131362023 used because it matches string pool constant state
+Marking string:items_count:2131361868 used because it matches string pool constant items
+Marking string:items_total:2131361869 used because it matches string pool constant items
+Marking attr:shortcutMatchRequired:2130772003 used because it matches string pool constant short
+Marking attr:route:2130772002 used because it matches string pool constant route
+Marking string:barcode:2131361806 used because it matches string pool constant barcode
+Marking string:barcode_not_found:2131361807 used because it matches string pool constant barcode
+Marking attr:graph:2130771988 used because it matches string pool constant graph
+Marking id:title:2131034199 used because it matches string pool constant title
+Marking string:navigation_menu:2131361946 used because it matches string pool constant navigation
+Marking attr:action:2130771968 used because it matches string pool constant action
+Marking id:action_container:2131034145 used because it matches string pool constant action
+Marking id:action_divider:2131034146 used because it matches string pool constant action
+Marking id:action_image:2131034147 used because it matches string pool constant action
+Marking id:action_text:2131034148 used because it matches string pool constant action
+Marking id:actions:2131034149 used because it matches string pool constant action
+Marking id:text:2131034196 used because it matches string pool constant text
+Marking id:text2:2131034197 used because it matches string pool constant text
+Marking string:upi:2131362059 used because it matches string pool constant upi
+Marking xml:file_paths:2131558400 used because it matches string pool constant file
+Marking attr:uri:2130772007 used because it matches string pool constant uri
+Marking string:credit:2131361833 used because it matches string pool constant credit
+Marking string:credit_limit:2131361834 used because it matches string pool constant credit
+Marking string:credit_limit_label:2131361835 used because it matches string pool constant credit
+Marking string:credit_needs_customer:2131361836 used because it matches string pool constant credit
+Marking string:selected:2131362016 used because it matches string pool constant selected
+Marking attr:nullable:2130771994 used because it matches string pool constant null
+Marking string:low_stock_alerts:2131361882 used because it matches string pool constant low_stock_alerts
+Marking string:receipt_thanks:2131361986 used because it matches string pool constant receipt_thanks
+Marking string:receipt_thanks_label:2131361987 used because it matches string pool constant receipt_thanks
+Marking string:customer_groups:2131361840 used because it matches string pool constant customer_groups
+Marking layout:ime_base_split_test_activity:2131165185 used because it matches string pool constant ime
+Marking layout:ime_secondary_split_test_activity:2131165186 used because it matches string pool constant ime
+Marking string:quantity:2131361972 used because it matches string pool constant quantity
+Marking string:close_drawer:2131361828 used because it matches string pool constant close
+Marking string:close_sheet:2131361829 used because it matches string pool constant close
+Marking id:accessibility_action_clickable_span:2131034112 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_0:2131034113 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_1:2131034114 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_10:2131034115 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_11:2131034116 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_12:2131034117 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_13:2131034118 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_14:2131034119 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_15:2131034120 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_16:2131034121 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_17:2131034122 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_18:2131034123 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_19:2131034124 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_2:2131034125 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_20:2131034126 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_21:2131034127 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_22:2131034128 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_23:2131034129 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_24:2131034130 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_25:2131034131 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_26:2131034132 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_27:2131034133 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_28:2131034134 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_29:2131034135 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_3:2131034136 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_30:2131034137 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_31:2131034138 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_4:2131034139 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_5:2131034140 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_6:2131034141 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_7:2131034142 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_8:2131034143 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_9:2131034144 used because it matches string pool constant acc
+Marking string:accent_color:2131361794 used because it matches string pool constant acc
+Marking string:add:2131361795 used because it matches string pool constant add
+Marking string:add_item:2131361796 used because it matches string pool constant add
+Marking string:add_more:2131361797 used because it matches string pool constant add
+Marking string:receipt_contact:2131361977 used because it matches string pool constant receipt_contact
+Marking style:TextAppearance_Compat_Notification:2131427333 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Info:2131427334 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Line2:2131427335 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Time:2131427336 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Title:2131427337 used because it matches string pool constant Text
+Marking string:all:2131361800 used because it matches string pool constant all
+Marking string:unit:2131362048 used because it matches string pool constant unit
+Marking string:unit_box:2131362049 used because it matches string pool constant unit
+Marking string:unit_g:2131362050 used because it matches string pool constant unit
+Marking string:unit_kg:2131362051 used because it matches string pool constant unit
+Marking string:unit_m:2131362052 used because it matches string pool constant unit
+Marking string:unit_pack:2131362053 used because it matches string pool constant unit
+Marking string:unit_pair:2131362054 used because it matches string pool constant unit
+Marking string:unit_pcs:2131362055 used because it matches string pool constant unit
+Marking string:unit_set:2131362056 used because it matches string pool constant unit
+Marking string:units:2131362057 used because it matches string pool constant unit
+Marking string:today_sales:2131362042 used because it matches string pool constant today
+Marking color:call_notification_answer_color:2130837506 used because it matches string pool constant call
+Marking color:call_notification_decline_color:2130837507 used because it matches string pool constant call
+Marking string:call_notification_answer_action:2131361809 used because it matches string pool constant call
+Marking string:call_notification_answer_video_action:2131361810 used because it matches string pool constant call
+Marking string:call_notification_decline_action:2131361811 used because it matches string pool constant call
+Marking string:call_notification_hang_up_action:2131361812 used because it matches string pool constant call
+Marking string:call_notification_incoming_text:2131361813 used because it matches string pool constant call
+Marking string:call_notification_ongoing_text:2131361814 used because it matches string pool constant call
+Marking string:call_notification_screening_text:2131361815 used because it matches string pool constant call
+Marking id:view_tree_lifecycle_owner:2131034200 used because it matches string pool constant view
+Marking id:view_tree_on_back_pressed_dispatcher_owner:2131034201 used because it matches string pool constant view
+Marking id:view_tree_saved_state_registry_owner:2131034202 used because it matches string pool constant view
+Marking id:view_tree_view_model_store_owner:2131034203 used because it matches string pool constant view
+Marking string:view_all:2131362063 used because it matches string pool constant view
+Marking string:name_required:2131361945 used because it matches string pool constant name
+Marking string:description:2131361851 used because it matches string pool constant description
+Marking string:receipt_business:2131361976 used because it matches string pool constant receipt_
+Marking string:receipt_contact:2131361977 used because it matches string pool constant receipt_
+Marking string:receipt_date:2131361978 used because it matches string pool constant receipt_
+Marking string:receipt_discount:2131361979 used because it matches string pool constant receipt_
+Marking string:receipt_footer:2131361980 used because it matches string pool constant receipt_
+Marking string:receipt_items:2131361981 used because it matches string pool constant receipt_
+Marking string:receipt_number:2131361982 used because it matches string pool constant receipt_
+Marking string:receipt_payment:2131361983 used because it matches string pool constant receipt_
+Marking string:receipt_subtotal:2131361984 used because it matches string pool constant receipt_
+Marking string:receipt_tax:2131361985 used because it matches string pool constant receipt_
+Marking string:receipt_thanks:2131361986 used because it matches string pool constant receipt_
+Marking string:receipt_thanks_label:2131361987 used because it matches string pool constant receipt_
+Marking string:receipt_total:2131361988 used because it matches string pool constant receipt_
+Marking attr:targetPackage:2130772005 used because it matches string pool constant target
+Marking string:cash:2131361820 used because it matches string pool constant cash
+Marking string:item_name:2131361866 used because it matches string pool constant item
+Marking string:item_saved:2131361867 used because it matches string pool constant item
+Marking string:items_count:2131361868 used because it matches string pool constant item
+Marking string:items_total:2131361869 used because it matches string pool constant item
+Marking string:phone:2131361966 used because it matches string pool constant phone
+Marking string:card:2131361817 used because it matches string pool constant card
+Marking id:report_drawn:2131034180 used because it matches string pool constant repo
+Marking string:report_all:2131361996 used because it matches string pool constant repo
+Marking string:report_discount:2131361997 used because it matches string pool constant repo
+Marking string:report_last30:2131361998 used because it matches string pool constant repo
+Marking string:report_month:2131361999 used because it matches string pool constant repo
+Marking string:report_orders:2131362000 used because it matches string pool constant repo
+Marking string:report_profit:2131362001 used because it matches string pool constant repo
+Marking string:report_refunds:2131362002 used because it matches string pool constant repo
+Marking string:report_revenue:2131362003 used because it matches string pool constant repo
+Marking string:report_today:2131362004 used because it matches string pool constant repo
+Marking string:report_week:2131362005 used because it matches string pool constant repo
+Marking string:reports:2131362006 used because it matches string pool constant repo
+Marking string:categories_title:2131361822 used because it matches string pool constant categories
+Marking color:notification_action_color_filter:2130837509 used because it matches string pool constant notification
+Marking color:notification_icon_bg_color:2130837510 used because it matches string pool constant notification
+Marking dimen:notification_action_icon_size:2130903047 used because it matches string pool constant notification
+Marking dimen:notification_action_text_size:2130903048 used because it matches string pool constant notification
+Marking dimen:notification_big_circle_margin:2130903049 used because it matches string pool constant notification
+Marking dimen:notification_content_margin_start:2130903050 used because it matches string pool constant notification
+Marking dimen:notification_large_icon_height:2130903051 used because it matches string pool constant notification
+Marking dimen:notification_large_icon_width:2130903052 used because it matches string pool constant notification
+Marking dimen:notification_main_column_padding_top:2130903053 used because it matches string pool constant notification
+Marking dimen:notification_media_narrow_margin:2130903054 used because it matches string pool constant notification
+Marking dimen:notification_right_icon_size:2130903055 used because it matches string pool constant notification
+Marking dimen:notification_right_side_padding_top:2130903056 used because it matches string pool constant notification
+Marking dimen:notification_small_icon_background_padding:2130903057 used because it matches string pool constant notification
+Marking dimen:notification_small_icon_size_as_large:2130903058 used because it matches string pool constant notification
+Marking dimen:notification_subtext_size:2130903059 used because it matches string pool constant notification
+Marking dimen:notification_top_pad:2130903060 used because it matches string pool constant notification
+Marking dimen:notification_top_pad_large_text:2130903061 used because it matches string pool constant notification
+Marking drawable:notification_action_background:2130968584 used because it matches string pool constant notification
+Marking drawable:notification_bg:2130968585 used because it matches string pool constant notification
+Marking drawable:notification_bg_low:2130968586 used because it matches string pool constant notification
+Marking drawable:notification_bg_low_normal:2130968587 used because it matches string pool constant notification
+Marking drawable:notification_bg_low_pressed:2130968588 used because it matches string pool constant notification
+Marking drawable:notification_bg_normal:2130968589 used because it matches string pool constant notification
+Marking drawable:notification_bg_normal_pressed:2130968590 used because it matches string pool constant notification
+Marking drawable:notification_icon_background:2130968591 used because it matches string pool constant notification
+Marking drawable:notification_oversize_large_icon_bg:2130968592 used because it matches string pool constant notification
+Marking drawable:notification_template_icon_bg:2130968593 used because it matches string pool constant notification
+Marking drawable:notification_template_icon_low_bg:2130968594 used because it matches string pool constant notification
+Marking drawable:notification_tile_bg:2130968595 used because it matches string pool constant notification
+Marking id:notification_background:2131034176 used because it matches string pool constant notification
+Marking id:notification_main_column:2131034177 used because it matches string pool constant notification
+Marking id:notification_main_column_container:2131034178 used because it matches string pool constant notification
+Marking layout:notification_action:2131165187 used because it matches string pool constant notification
+Marking layout:notification_action_tombstone:2131165188 used because it matches string pool constant notification
+Marking layout:notification_template_custom_big:2131165189 used because it matches string pool constant notification
+Marking layout:notification_template_icon_group:2131165190 used because it matches string pool constant notification
+Marking layout:notification_template_part_chronometer:2131165191 used because it matches string pool constant notification
+Marking layout:notification_template_part_time:2131165192 used because it matches string pool constant notification
+Marking string:notifications:2131361960 used because it matches string pool constant notification
+Marking attr:popUpTo:2130771997 used because it matches string pool constant popUpTo
+Marking attr:popUpToInclusive:2130771998 used because it matches string pool constant popUpTo
+Marking attr:popUpToSaveState:2130771999 used because it matches string pool constant popUpTo
+Marking id:icon:2131034166 used because it matches string pool constant icon
+Marking id:icon_group:2131034167 used because it matches string pool constant icon
+Marking string:customers:2131361842 used because it matches string pool constant customers
+Marking string:select_category:2131362015 used because it matches string pool constant select
+Marking string:selected:2131362016 used because it matches string pool constant select
+Marking id:dialog_button:2131034158 used because it matches string pool constant dialog
+Marking string:business_name:2131361808 used because it matches string pool constant business_name
+Marking attr:destination:2130771973 used because it matches string pool constant dest
+Marking attr:queryPatterns:2130772000 used because it matches string pool constant query
+Marking string:description:2131361851 used because it matches string pool constant desc
+Marking attr:destination:2130771973 used because it matches string pool constant destination
+Marking string:range_end:2131361974 used because it matches string pool constant range
+Marking string:range_start:2131361975 used because it matches string pool constant range
+Marking string:out_of_stock:2131361962 used because it matches string pool constant out
+Marking attr:data:2130771971 used because it matches string pool constant data
+Marking attr:dataPattern:2130771972 used because it matches string pool constant data
+Marking string:sales_history:2131362010 used because it matches string pool constant sales
+Marking string:category:2131361823 used because it matches string pool constant category
+Marking string:category_breakdown:2131361824 used because it matches string pool constant category
+Marking string:category_hint:2131361825 used because it matches string pool constant category
+Marking string:category_required:2131361826 used because it matches string pool constant category
+@attr/action : reachable=true
+@attr/alpha : reachable=false
+@attr/argType : reachable=false
+@attr/data : reachable=true
+@attr/dataPattern : reachable=true
+@attr/destination : reachable=true
+@attr/enterAnim : reachable=false
+@attr/exitAnim : reachable=false
+@attr/font : reachable=false
+@attr/fontProviderAuthority : reachable=false
+@attr/fontProviderCerts : reachable=false
+@attr/fontProviderFallbackQuery : reachable=false
+@attr/fontProviderFetchStrategy : reachable=false
+@attr/fontProviderFetchTimeout : reachable=false
+@attr/fontProviderPackage : reachable=false
+@attr/fontProviderQuery : reachable=false
+@attr/fontProviderSystemFontFamily : reachable=false
+@attr/fontStyle : reachable=false
+@attr/fontVariationSettings : reachable=false
+@attr/fontWeight : reachable=false
+@attr/graph : reachable=true
+@attr/lStar : reachable=false
+@attr/launchSingleTop : reachable=false
+@attr/mimeType : reachable=false
+@attr/navGraph : reachable=false
+@attr/nestedScrollViewStyle : reachable=false
+@attr/nullable : reachable=true
+@attr/popEnterAnim : reachable=false
+@attr/popExitAnim : reachable=false
+@attr/popUpTo : reachable=true
+@attr/popUpToInclusive : reachable=true
+@attr/popUpToSaveState : reachable=true
+@attr/queryPatterns : reachable=true
+@attr/restoreState : reachable=false
+@attr/route : reachable=true
+@attr/shortcutMatchRequired : reachable=true
+@attr/startDestination : reachable=false
+@attr/targetPackage : reachable=true
+@attr/ttcIndex : reachable=false
+@attr/uri : reachable=true
+@attr/zxing_framing_rect_height : reachable=false
+@attr/zxing_framing_rect_width : reachable=false
+@attr/zxing_possible_result_points : reachable=false
+@attr/zxing_preview_scaling_strategy : reachable=false
+@attr/zxing_result_view : reachable=false
+@attr/zxing_scanner_layout : reachable=false
+@attr/zxing_use_texture_view : reachable=false
+@attr/zxing_viewfinder_laser : reachable=false
+@attr/zxing_viewfinder_laser_visibility : reachable=false
+@attr/zxing_viewfinder_mask : reachable=false
+@color/androidx_core_ripple_material_light : reachable=false
+@color/androidx_core_secondary_text_default_material_light : reachable=false
+@color/call_notification_answer_color : reachable=true
+@color/call_notification_decline_color : reachable=true
+@color/ic_launcher_background : reachable=false
+@color/notification_action_color_filter : reachable=true
+    @color/androidx_core_secondary_text_default_material_light
+@color/notification_icon_bg_color : reachable=true
+@color/vector_tint_color : reachable=false
+@color/vector_tint_theme_color : reachable=false
+@color/zxing_custom_possible_result_points : reachable=false
+@color/zxing_custom_result_view : reachable=false
+@color/zxing_custom_viewfinder_laser : reachable=false
+@color/zxing_custom_viewfinder_mask : reachable=false
+@color/zxing_possible_result_points : reachable=true
+@color/zxing_result_view : reachable=true
+@color/zxing_status_text : reachable=false
+@color/zxing_transparent : reachable=false
+@color/zxing_viewfinder_laser : reachable=true
+@color/zxing_viewfinder_mask : reachable=true
+@dimen/compat_button_inset_horizontal_material : reachable=false
+@dimen/compat_button_inset_vertical_material : reachable=false
+@dimen/compat_button_padding_horizontal_material : reachable=false
+@dimen/compat_button_padding_vertical_material : reachable=false
+@dimen/compat_control_corner_material : reachable=false
+@dimen/compat_notification_large_icon_max_height : reachable=false
+@dimen/compat_notification_large_icon_max_width : reachable=false
+@dimen/notification_action_icon_size : reachable=true
+@dimen/notification_action_text_size : reachable=true
+@dimen/notification_big_circle_margin : reachable=true
+@dimen/notification_content_margin_start : reachable=true
+@dimen/notification_large_icon_height : reachable=true
+@dimen/notification_large_icon_width : reachable=true
+@dimen/notification_main_column_padding_top : reachable=true
+@dimen/notification_media_narrow_margin : reachable=true
+@dimen/notification_right_icon_size : reachable=true
+@dimen/notification_right_side_padding_top : reachable=true
+@dimen/notification_small_icon_background_padding : reachable=true
+@dimen/notification_small_icon_size_as_large : reachable=true
+@dimen/notification_subtext_size : reachable=true
+@dimen/notification_top_pad : reachable=true
+@dimen/notification_top_pad_large_text : reachable=true
+@drawable/abc_vector_test : reachable=true
+@drawable/ic_call_answer : reachable=false
+@drawable/ic_call_answer_low : reachable=false
+@drawable/ic_call_answer_video : reachable=false
+@drawable/ic_call_answer_video_low : reachable=false
+@drawable/ic_call_decline : reachable=false
+@drawable/ic_call_decline_low : reachable=false
+@drawable/ic_launcher_foreground : reachable=false
+@drawable/notification_action_background : reachable=true
+    @color/androidx_core_ripple_material_light
+    @dimen/compat_button_inset_horizontal_material
+    @dimen/compat_button_inset_vertical_material
+    @dimen/compat_control_corner_material
+    @dimen/compat_button_padding_horizontal_material
+    @dimen/compat_button_padding_vertical_material
+@drawable/notification_bg : reachable=true
+    @drawable/notification_bg_normal_pressed
+    @drawable/notification_bg_normal
+@drawable/notification_bg_low : reachable=true
+    @drawable/notification_bg_low_pressed
+    @drawable/notification_bg_low_normal
+@drawable/notification_bg_low_normal : reachable=true
+@drawable/notification_bg_low_pressed : reachable=true
+@drawable/notification_bg_normal : reachable=true
+@drawable/notification_bg_normal_pressed : reachable=true
+@drawable/notification_icon_background : reachable=true
+    @color/notification_icon_bg_color
+@drawable/notification_oversize_large_icon_bg : reachable=true
+@drawable/notification_template_icon_bg : reachable=true
+@drawable/notification_template_icon_low_bg : reachable=true
+@drawable/notification_tile_bg : reachable=true
+    @drawable/notify_panel_notification_icon_bg
+@drawable/notify_panel_notification_icon_bg : reachable=false
+@id/accessibility_action_clickable_span : reachable=true
+@id/accessibility_custom_action_0 : reachable=true
+@id/accessibility_custom_action_1 : reachable=true
+@id/accessibility_custom_action_10 : reachable=true
+@id/accessibility_custom_action_11 : reachable=true
+@id/accessibility_custom_action_12 : reachable=true
+@id/accessibility_custom_action_13 : reachable=true
+@id/accessibility_custom_action_14 : reachable=true
+@id/accessibility_custom_action_15 : reachable=true
+@id/accessibility_custom_action_16 : reachable=true
+@id/accessibility_custom_action_17 : reachable=true
+@id/accessibility_custom_action_18 : reachable=true
+@id/accessibility_custom_action_19 : reachable=true
+@id/accessibility_custom_action_2 : reachable=true
+@id/accessibility_custom_action_20 : reachable=true
+@id/accessibility_custom_action_21 : reachable=true
+@id/accessibility_custom_action_22 : reachable=true
+@id/accessibility_custom_action_23 : reachable=true
+@id/accessibility_custom_action_24 : reachable=true
+@id/accessibility_custom_action_25 : reachable=true
+@id/accessibility_custom_action_26 : reachable=true
+@id/accessibility_custom_action_27 : reachable=true
+@id/accessibility_custom_action_28 : reachable=true
+@id/accessibility_custom_action_29 : reachable=true
+@id/accessibility_custom_action_3 : reachable=true
+@id/accessibility_custom_action_30 : reachable=true
+@id/accessibility_custom_action_31 : reachable=true
+@id/accessibility_custom_action_4 : reachable=true
+@id/accessibility_custom_action_5 : reachable=true
+@id/accessibility_custom_action_6 : reachable=true
+@id/accessibility_custom_action_7 : reachable=true
+@id/accessibility_custom_action_8 : reachable=true
+@id/accessibility_custom_action_9 : reachable=true
+@id/action_container : reachable=true
+@id/action_divider : reachable=true
+@id/action_image : reachable=true
+@id/action_text : reachable=true
+@id/actions : reachable=true
+@id/androidx_compose_ui_view_composition_context : reachable=true
+@id/async : reachable=false
+@id/blocking : reachable=true
+@id/centerCrop : reachable=false
+@id/chronometer : reachable=false
+@id/coil_request_manager : reachable=false
+@id/compose_view_saveable_id_tag : reachable=true
+@id/consume_window_insets_tag : reachable=true
+@id/dialog_button : reachable=true
+@id/edit_text_id : reachable=false
+@id/fitCenter : reachable=false
+@id/fitXY : reachable=false
+@id/forever : reachable=false
+@id/hide_graphics_layer_in_inspector_tag : reachable=true
+@id/hide_ime_id : reachable=false
+@id/hide_in_inspector_tag : reachable=true
+@id/icon : reachable=true
+@id/icon_group : reachable=true
+@id/info : reachable=false
+@id/inspection_slot_table_set : reachable=true
+@id/is_pooling_container_tag : reachable=true
+@id/italic : reachable=false
+@id/line1 : reachable=false
+@id/line3 : reachable=false
+@id/nav_controller_view_tag : reachable=false
+@id/normal : reachable=false
+@id/notification_background : reachable=true
+@id/notification_main_column : reachable=true
+@id/notification_main_column_container : reachable=true
+@id/pooling_container_listener_holder_tag : reachable=true
+@id/report_drawn : reachable=true
+@id/right_icon : reachable=false
+@id/right_side : reachable=false
+@id/tag_accessibility_actions : reachable=true
+@id/tag_accessibility_clickable_spans : reachable=true
+@id/tag_accessibility_heading : reachable=true
+@id/tag_accessibility_pane_title : reachable=true
+@id/tag_on_apply_window_listener : reachable=true
+@id/tag_on_receive_content_listener : reachable=false
+@id/tag_on_receive_content_mime_types : reachable=false
+@id/tag_screen_reader_focusable : reachable=true
+@id/tag_state_description : reachable=true
+@id/tag_transition_group : reachable=false
+@id/tag_unhandled_key_event_manager : reachable=true
+@id/tag_unhandled_key_listeners : reachable=true
+@id/tag_window_insets_animation_callback : reachable=true
+@id/text : reachable=true
+@id/text2 : reachable=true
+@id/time : reachable=false
+@id/title : reachable=true
+@id/view_tree_lifecycle_owner : reachable=true
+@id/view_tree_on_back_pressed_dispatcher_owner : reachable=true
+@id/view_tree_saved_state_registry_owner : reachable=true
+@id/view_tree_view_model_store_owner : reachable=true
+@id/wrapped_composition_tag : reachable=true
+@id/zxing_back_button : reachable=false
+@id/zxing_barcode_scanner : reachable=true
+@id/zxing_barcode_surface : reachable=true
+@id/zxing_camera_closed : reachable=true
+@id/zxing_camera_error : reachable=true
+@id/zxing_decode : reachable=true
+@id/zxing_decode_failed : reachable=true
+@id/zxing_decode_succeeded : reachable=true
+@id/zxing_possible_result_points : reachable=true
+@id/zxing_preview_failed : reachable=true
+@id/zxing_prewiew_size_ready : reachable=true
+@id/zxing_status_view : reachable=true
+@id/zxing_viewfinder_view : reachable=true
+@integer/m3c_window_layout_in_display_cutout_mode : reachable=false
+@integer/status_bar_notification_info_maxnum : reachable=false
+@layout/custom_dialog : reachable=false
+@layout/ime_base_split_test_activity : reachable=true
+@layout/ime_secondary_split_test_activity : reachable=true
+@layout/notification_action : reachable=true
+    @style/Widget_Compat_NotificationActionContainer
+    @dimen/notification_action_icon_size
+    @style/Widget_Compat_NotificationActionText
+@layout/notification_action_tombstone : reachable=true
+    @style/Widget_Compat_NotificationActionContainer
+    @dimen/notification_action_icon_size
+    @style/Widget_Compat_NotificationActionText
+@layout/notification_template_custom_big : reachable=true
+    @dimen/notification_large_icon_width
+    @dimen/notification_large_icon_height
+    @layout/notification_template_icon_group
+    @dimen/notification_right_side_padding_top
+    @layout/notification_template_part_time
+    @layout/notification_template_part_chronometer
+    @style/TextAppearance_Compat_Notification_Info
+@layout/notification_template_icon_group : reachable=true
+    @dimen/notification_large_icon_width
+    @dimen/notification_large_icon_height
+    @dimen/notification_big_circle_margin
+    @dimen/notification_right_icon_size
+@layout/notification_template_part_chronometer : reachable=true
+    @style/TextAppearance_Compat_Notification_Time
+@layout/notification_template_part_time : reachable=true
+    @style/TextAppearance_Compat_Notification_Time
+@layout/zxing_barcode_scanner : reachable=true
+    @color/zxing_status_text
+    @color/zxing_transparent
+    @string/zxing_msg_default_status
+@layout/zxing_capture : reachable=true
+@mipmap/ic_launcher : reachable=true
+    @color/ic_launcher_background
+    @drawable/ic_launcher_foreground
+@mipmap/ic_launcher_round : reachable=true
+    @color/ic_launcher_background
+    @drawable/ic_launcher_foreground
+@raw/zxing_beep : reachable=true
+@string/about : reachable=true
+@string/about_text : reachable=true
+@string/accent_color : reachable=true
+@string/add : reachable=true
+@string/add_item : reachable=true
+@string/add_more : reachable=true
+@string/adjust_stock : reachable=true
+@string/adjustment_reason : reachable=true
+@string/all : reachable=true
+@string/androidx_startup : reachable=true
+@string/app_name : reachable=true
+@string/app_version : reachable=false
+@string/appearance : reachable=false
+@string/balance : reachable=false
+@string/barcode : reachable=true
+@string/barcode_not_found : reachable=true
+@string/business_name : reachable=true
+@string/call_notification_answer_action : reachable=true
+@string/call_notification_answer_video_action : reachable=true
+@string/call_notification_decline_action : reachable=true
+@string/call_notification_hang_up_action : reachable=true
+@string/call_notification_incoming_text : reachable=true
+@string/call_notification_ongoing_text : reachable=true
+@string/call_notification_screening_text : reachable=true
+@string/cancel : reachable=true
+@string/card : reachable=true
+@string/cart : reachable=true
+@string/cart_empty : reachable=true
+@string/cash : reachable=true
+@string/catalog : reachable=true
+@string/categories_title : reachable=true
+@string/category : reachable=true
+@string/category_breakdown : reachable=true
+@string/category_hint : reachable=true
+@string/category_required : reachable=true
+@string/choose_photo : reachable=true
+@string/close_drawer : reachable=true
+@string/close_sheet : reachable=true
+@string/collect_payment : reachable=false
+@string/complete_sale : reachable=true
+@string/cost_price : reachable=true
+@string/credit : reachable=true
+@string/credit_limit : reachable=true
+@string/credit_limit_label : reachable=true
+@string/credit_needs_customer : reachable=true
+@string/currency : reachable=true
+@string/currency_label : reachable=true
+@string/customer : reachable=true
+@string/customer_groups : reachable=true
+@string/customer_name : reachable=false
+@string/customers : reachable=true
+@string/default_error_message : reachable=true
+@string/default_popup_window_title : reachable=true
+@string/define_zxingandroidembedded : reachable=false
+@string/delete : reachable=true
+@string/delete_category_blocked : reachable=true
+@string/delete_confirm : reachable=true
+@string/delete_customer_confirm : reachable=false
+@string/delete_group_blocked : reachable=false
+@string/description : reachable=true
+@string/discount : reachable=false
+@string/discount_pct : reachable=true
+@string/discount_rs : reachable=true
+@string/done : reachable=true
+@string/dropdown_menu : reachable=false
+@string/edit : reachable=true
+@string/english : reachable=true
+@string/footer_saved : reachable=true
+@string/group_discount_pct : reachable=false
+@string/group_discount_pct_label : reachable=false
+@string/group_name : reachable=false
+@string/in_progress : reachable=true
+@string/in_stock : reachable=false
+@string/indeterminate : reachable=true
+@string/item_name : reachable=true
+@string/item_saved : reachable=true
+@string/items_count : reachable=true
+@string/items_total : reachable=true
+@string/language : reachable=true
+@string/language_changed : reachable=true
+@string/library_zxingandroidembedded_author : reachable=false
+@string/library_zxingandroidembedded_authorWebsite : reachable=false
+@string/library_zxingandroidembedded_isOpenSource : reachable=false
+@string/library_zxingandroidembedded_libraryDescription : reachable=false
+@string/library_zxingandroidembedded_libraryName : reachable=false
+@string/library_zxingandroidembedded_libraryVersion : reachable=false
+@string/library_zxingandroidembedded_libraryWebsite : reachable=false
+@string/library_zxingandroidembedded_licenseId : reachable=false
+@string/library_zxingandroidembedded_repositoryLink : reachable=false
+@string/low_stock : reachable=true
+@string/low_stock_alerts : reachable=true
+@string/low_stock_items : reachable=true
+@string/low_stock_notification_text : reachable=false
+@string/low_stock_notification_title : reachable=false
+@string/low_stock_threshold : reachable=true
+@string/loyalty_points : reachable=false
+@string/m3c_bottom_sheet_collapse_description : reachable=true
+@string/m3c_bottom_sheet_dismiss_description : reachable=true
+@string/m3c_bottom_sheet_drag_handle_description : reachable=true
+@string/m3c_bottom_sheet_expand_description : reachable=true
+@string/m3c_bottom_sheet_pane_title : reachable=true
+@string/m3c_date_input_headline : reachable=false
+@string/m3c_date_input_headline_description : reachable=false
+@string/m3c_date_input_invalid_for_pattern : reachable=false
+@string/m3c_date_input_invalid_not_allowed : reachable=false
+@string/m3c_date_input_invalid_year_range : reachable=false
+@string/m3c_date_input_label : reachable=false
+@string/m3c_date_input_no_input_description : reachable=false
+@string/m3c_date_input_title : reachable=false
+@string/m3c_date_picker_headline : reachable=false
+@string/m3c_date_picker_headline_description : reachable=false
+@string/m3c_date_picker_navigate_to_year_description : reachable=false
+@string/m3c_date_picker_no_selection_description : reachable=false
+@string/m3c_date_picker_scroll_to_earlier_years : reachable=false
+@string/m3c_date_picker_scroll_to_later_years : reachable=false
+@string/m3c_date_picker_switch_to_calendar_mode : reachable=false
+@string/m3c_date_picker_switch_to_day_selection : reachable=false
+@string/m3c_date_picker_switch_to_input_mode : reachable=false
+@string/m3c_date_picker_switch_to_next_month : reachable=false
+@string/m3c_date_picker_switch_to_previous_month : reachable=false
+@string/m3c_date_picker_switch_to_year_selection : reachable=false
+@string/m3c_date_picker_title : reachable=false
+@string/m3c_date_picker_today_description : reachable=false
+@string/m3c_date_picker_year_picker_pane_title : reachable=false
+@string/m3c_date_range_input_invalid_range_input : reachable=false
+@string/m3c_date_range_input_title : reachable=false
+@string/m3c_date_range_picker_day_in_range : reachable=false
+@string/m3c_date_range_picker_end_headline : reachable=false
+@string/m3c_date_range_picker_scroll_to_next_month : reachable=false
+@string/m3c_date_range_picker_scroll_to_previous_month : reachable=false
+@string/m3c_date_range_picker_start_headline : reachable=false
+@string/m3c_date_range_picker_title : reachable=false
+@string/m3c_dialog : reachable=true
+@string/m3c_dropdown_menu_collapsed : reachable=true
+@string/m3c_dropdown_menu_expanded : reachable=true
+@string/m3c_dropdown_menu_toggle : reachable=true
+@string/m3c_search_bar_search : reachable=false
+@string/m3c_snackbar_dismiss : reachable=false
+@string/m3c_suggestions_available : reachable=false
+@string/m3c_time_picker_am : reachable=false
+@string/m3c_time_picker_hour : reachable=false
+@string/m3c_time_picker_hour_24h_suffix : reachable=false
+@string/m3c_time_picker_hour_selection : reachable=false
+@string/m3c_time_picker_hour_suffix : reachable=false
+@string/m3c_time_picker_hour_text_field : reachable=false
+@string/m3c_time_picker_minute : reachable=false
+@string/m3c_time_picker_minute_selection : reachable=false
+@string/m3c_time_picker_minute_suffix : reachable=false
+@string/m3c_time_picker_minute_text_field : reachable=false
+@string/m3c_time_picker_period_toggle_description : reachable=false
+@string/m3c_time_picker_pm : reachable=false
+@string/m3c_tooltip_long_press_label : reachable=false
+@string/m3c_tooltip_pane_description : reachable=false
+@string/name_required : reachable=true
+@string/navigation_menu : reachable=true
+@string/new_category : reachable=true
+@string/new_customer : reachable=false
+@string/new_group : reachable=false
+@string/new_item : reachable=true
+@string/new_sale : reachable=true
+@string/no_items : reachable=true
+@string/no_items_hint : reachable=true
+@string/no_low_stock : reachable=true
+@string/no_phone : reachable=false
+@string/no_report_data : reachable=true
+@string/no_sales : reachable=true
+@string/no_sales_hint : reachable=true
+@string/not_selected : reachable=true
+@string/notifications : reachable=true
+@string/orders_today : reachable=true
+@string/out_of_stock : reachable=true
+@string/payment_amount : reachable=false
+@string/payment_method : reachable=true
+@string/pdf_failed : reachable=true
+@string/phone : reachable=true
+@string/photo : reachable=true
+@string/price_required : reachable=true
+@string/print_coming_soon : reachable=false
+@string/print_later : reachable=false
+@string/purchase_history : reachable=false
+@string/quantity : reachable=true
+@string/quick_actions : reachable=true
+@string/range_end : reachable=true
+@string/range_start : reachable=true
+@string/receipt_business : reachable=true
+@string/receipt_contact : reachable=true
+@string/receipt_date : reachable=true
+@string/receipt_discount : reachable=true
+@string/receipt_footer : reachable=true
+@string/receipt_items : reachable=true
+@string/receipt_number : reachable=true
+@string/receipt_payment : reachable=true
+@string/receipt_subtotal : reachable=true
+@string/receipt_tax : reachable=true
+@string/receipt_thanks : reachable=true
+@string/receipt_thanks_label : reachable=true
+@string/receipt_total : reachable=true
+@string/refund : reachable=true
+@string/refund_confirm : reachable=true
+@string/refund_reason : reachable=true
+@string/refund_sale : reachable=true
+@string/refund_success : reachable=false
+@string/refunded : reachable=true
+@string/remove : reachable=true
+@string/report_all : reachable=true
+@string/report_discount : reachable=true
+@string/report_last30 : reachable=true
+@string/report_month : reachable=true
+@string/report_orders : reachable=true
+@string/report_profit : reachable=true
+@string/report_refunds : reachable=true
+@string/report_revenue : reachable=true
+@string/report_today : reachable=true
+@string/report_week : reachable=true
+@string/reports : reachable=true
+@string/sale_complete : reachable=true
+@string/sale_detail : reachable=true
+@string/sale_saved : reachable=true
+@string/sales_history : reachable=true
+@string/save : reachable=true
+@string/scan : reachable=true
+@string/scan_hint : reachable=false
+@string/search_items : reachable=true
+@string/select_category : reachable=true
+@string/selected : reachable=true
+@string/selling_price : reachable=true
+@string/share_receipt : reachable=true
+@string/sinhala : reachable=true
+@string/spent : reachable=false
+@string/state_empty : reachable=true
+@string/state_off : reachable=true
+@string/state_on : reachable=true
+@string/status_bar_notification_info_overflow : reachable=false
+@string/stock_alert : reachable=true
+@string/stock_change : reachable=true
+@string/stock_qty : reachable=true
+@string/subtotal : reachable=true
+@string/switch_role : reachable=true
+@string/tab : reachable=true
+@string/tab_home : reachable=true
+@string/tab_inventory : reachable=true
+@string/tab_pos : reachable=true
+@string/tab_sales : reachable=true
+@string/tab_settings : reachable=true
+@string/take_photo : reachable=true
+@string/template_percent : reachable=true
+@string/theme : reachable=false
+@string/theme_dark : reachable=false
+@string/theme_light : reachable=false
+@string/theme_system : reachable=false
+@string/today_sales : reachable=true
+@string/tooltip_description : reachable=false
+@string/tooltip_label : reachable=false
+@string/top_sellers : reachable=true
+@string/total : reachable=true
+@string/total_sales : reachable=false
+@string/unit : reachable=true
+@string/unit_box : reachable=true
+@string/unit_g : reachable=true
+@string/unit_kg : reachable=true
+@string/unit_m : reachable=true
+@string/unit_pack : reachable=true
+@string/unit_pair : reachable=true
+@string/unit_pcs : reachable=true
+@string/unit_set : reachable=true
+@string/units : reachable=true
+@string/update : reachable=true
+@string/upi : reachable=true
+@string/vat : reachable=false
+@string/vat_rate : reachable=false
+@string/version : reachable=true
+@string/view_all : reachable=true
+@string/walk_in : reachable=true
+@string/zxing_app_name : reachable=true
+@string/zxing_button_ok : reachable=true
+@string/zxing_msg_camera_framework_bug : reachable=true
+@string/zxing_msg_default_status : reachable=false
+@style/DialogWindowTheme : reachable=true
+@style/EdgeToEdgeFloatingDialogTheme : reachable=false
+    @integer/m3c_window_layout_in_display_cutout_mode
+@style/EdgeToEdgeFloatingDialogWindowTheme : reachable=true
+    @style/EdgeToEdgeFloatingDialogTheme
+@style/FloatingDialogTheme : reachable=false
+@style/FloatingDialogWindowTheme : reachable=false
+    @style/FloatingDialogTheme
+@style/TextAppearance_Compat_Notification : reachable=true
+@style/TextAppearance_Compat_Notification_Info : reachable=true
+@style/TextAppearance_Compat_Notification_Line2 : reachable=true
+    @style/TextAppearance_Compat_Notification_Info
+@style/TextAppearance_Compat_Notification_Time : reachable=true
+@style/TextAppearance_Compat_Notification_Title : reachable=true
+@style/Theme_CraftKart : reachable=true
+@style/Widget_Compat_NotificationActionContainer : reachable=false
+    @drawable/notification_action_background
+@style/Widget_Compat_NotificationActionText : reachable=false
+    @dimen/notification_action_text_size
+    @color/androidx_core_secondary_text_default_material_light
+@style/zxing_CaptureTheme : reachable=true
+@xml/file_paths : reachable=true
+
+The root reachable resources are:
+ attr:action:2130771968
+ attr:data:2130771971
+ attr:dataPattern:2130771972
+ attr:destination:2130771973
+ attr:graph:2130771988
+ attr:nullable:2130771994
+ attr:popUpTo:2130771997
+ attr:popUpToInclusive:2130771998
+ attr:popUpToSaveState:2130771999
+ attr:queryPatterns:2130772000
+ attr:route:2130772002
+ attr:shortcutMatchRequired:2130772003
+ attr:targetPackage:2130772005
+ attr:uri:2130772007
+ color:call_notification_answer_color:2130837506
+ color:call_notification_decline_color:2130837507
+ color:notification_action_color_filter:2130837509
+ color:notification_icon_bg_color:2130837510
+ color:zxing_possible_result_points:2130837517
+ color:zxing_result_view:2130837518
+ color:zxing_viewfinder_laser:2130837521
+ color:zxing_viewfinder_mask:2130837522
+ dimen:notification_action_icon_size:2130903047
+ dimen:notification_action_text_size:2130903048
+ dimen:notification_big_circle_margin:2130903049
+ dimen:notification_content_margin_start:2130903050
+ dimen:notification_large_icon_height:2130903051
+ dimen:notification_large_icon_width:2130903052
+ dimen:notification_main_column_padding_top:2130903053
+ dimen:notification_media_narrow_margin:2130903054
+ dimen:notification_right_icon_size:2130903055
+ dimen:notification_right_side_padding_top:2130903056
+ dimen:notification_small_icon_background_padding:2130903057
+ dimen:notification_small_icon_size_as_large:2130903058
+ dimen:notification_subtext_size:2130903059
+ dimen:notification_top_pad:2130903060
+ dimen:notification_top_pad_large_text:2130903061
+ drawable:abc_vector_test:2130968576
+ drawable:notification_action_background:2130968584
+ drawable:notification_bg:2130968585
+ drawable:notification_bg_low:2130968586
+ drawable:notification_bg_low_normal:2130968587
+ drawable:notification_bg_low_pressed:2130968588
+ drawable:notification_bg_normal:2130968589
+ drawable:notification_bg_normal_pressed:2130968590
+ drawable:notification_icon_background:2130968591
+ drawable:notification_oversize_large_icon_bg:2130968592
+ drawable:notification_template_icon_bg:2130968593
+ drawable:notification_template_icon_low_bg:2130968594
+ drawable:notification_tile_bg:2130968595
+ id:accessibility_action_clickable_span:2131034112
+ id:accessibility_custom_action_0:2131034113
+ id:accessibility_custom_action_1:2131034114
+ id:accessibility_custom_action_10:2131034115
+ id:accessibility_custom_action_11:2131034116
+ id:accessibility_custom_action_12:2131034117
+ id:accessibility_custom_action_13:2131034118
+ id:accessibility_custom_action_14:2131034119
+ id:accessibility_custom_action_15:2131034120
+ id:accessibility_custom_action_16:2131034121
+ id:accessibility_custom_action_17:2131034122
+ id:accessibility_custom_action_18:2131034123
+ id:accessibility_custom_action_19:2131034124
+ id:accessibility_custom_action_2:2131034125
+ id:accessibility_custom_action_20:2131034126
+ id:accessibility_custom_action_21:2131034127
+ id:accessibility_custom_action_22:2131034128
+ id:accessibility_custom_action_23:2131034129
+ id:accessibility_custom_action_24:2131034130
+ id:accessibility_custom_action_25:2131034131
+ id:accessibility_custom_action_26:2131034132
+ id:accessibility_custom_action_27:2131034133
+ id:accessibility_custom_action_28:2131034134
+ id:accessibility_custom_action_29:2131034135
+ id:accessibility_custom_action_3:2131034136
+ id:accessibility_custom_action_30:2131034137
+ id:accessibility_custom_action_31:2131034138
+ id:accessibility_custom_action_4:2131034139
+ id:accessibility_custom_action_5:2131034140
+ id:accessibility_custom_action_6:2131034141
+ id:accessibility_custom_action_7:2131034142
+ id:accessibility_custom_action_8:2131034143
+ id:accessibility_custom_action_9:2131034144
+ id:action_container:2131034145
+ id:action_divider:2131034146
+ id:action_image:2131034147
+ id:action_text:2131034148
+ id:actions:2131034149
+ id:androidx_compose_ui_view_composition_context:2131034150
+ id:blocking:2131034152
+ id:compose_view_saveable_id_tag:2131034156
+ id:consume_window_insets_tag:2131034157
+ id:dialog_button:2131034158
+ id:hide_graphics_layer_in_inspector_tag:2131034163
+ id:hide_in_inspector_tag:2131034165
+ id:icon:2131034166
+ id:icon_group:2131034167
+ id:inspection_slot_table_set:2131034169
+ id:is_pooling_container_tag:2131034170
+ id:notification_background:2131034176
+ id:notification_main_column:2131034177
+ id:notification_main_column_container:2131034178
+ id:pooling_container_listener_holder_tag:2131034179
+ id:report_drawn:2131034180
+ id:tag_accessibility_actions:2131034183
+ id:tag_accessibility_clickable_spans:2131034184
+ id:tag_accessibility_heading:2131034185
+ id:tag_accessibility_pane_title:2131034186
+ id:tag_on_apply_window_listener:2131034187
+ id:tag_screen_reader_focusable:2131034190
+ id:tag_state_description:2131034191
+ id:tag_unhandled_key_event_manager:2131034193
+ id:tag_unhandled_key_listeners:2131034194
+ id:tag_window_insets_animation_callback:2131034195
+ id:text:2131034196
+ id:text2:2131034197
+ id:title:2131034199
+ id:view_tree_lifecycle_owner:2131034200
+ id:view_tree_on_back_pressed_dispatcher_owner:2131034201
+ id:view_tree_saved_state_registry_owner:2131034202
+ id:view_tree_view_model_store_owner:2131034203
+ id:wrapped_composition_tag:2131034204
+ id:zxing_barcode_scanner:2131034206
+ id:zxing_barcode_surface:2131034207
+ id:zxing_camera_closed:2131034208
+ id:zxing_camera_error:2131034209
+ id:zxing_decode:2131034210
+ id:zxing_decode_failed:2131034211
+ id:zxing_decode_succeeded:2131034212
+ id:zxing_possible_result_points:2131034213
+ id:zxing_preview_failed:2131034214
+ id:zxing_prewiew_size_ready:2131034215
+ id:zxing_status_view:2131034216
+ id:zxing_viewfinder_view:2131034217
+ layout:ime_base_split_test_activity:2131165185
+ layout:ime_secondary_split_test_activity:2131165186
+ layout:notification_action:2131165187
+ layout:notification_action_tombstone:2131165188
+ layout:notification_template_custom_big:2131165189
+ layout:notification_template_icon_group:2131165190
+ layout:notification_template_part_chronometer:2131165191
+ layout:notification_template_part_time:2131165192
+ layout:zxing_barcode_scanner:2131165193
+ layout:zxing_capture:2131165194
+ mipmap:ic_launcher:2131230720
+ mipmap:ic_launcher_round:2131230721
+ raw:zxing_beep:2131296256
+ string:about:2131361792
+ string:about_text:2131361793
+ string:accent_color:2131361794
+ string:add:2131361795
+ string:add_item:2131361796
+ string:add_more:2131361797
+ string:adjust_stock:2131361798
+ string:adjustment_reason:2131361799
+ string:all:2131361800
+ string:androidx_startup:2131361801
+ string:app_name:2131361802
+ string:barcode:2131361806
+ string:barcode_not_found:2131361807
+ string:business_name:2131361808
+ string:call_notification_answer_action:2131361809
+ string:call_notification_answer_video_action:2131361810
+ string:call_notification_decline_action:2131361811
+ string:call_notification_hang_up_action:2131361812
+ string:call_notification_incoming_text:2131361813
+ string:call_notification_ongoing_text:2131361814
+ string:call_notification_screening_text:2131361815
+ string:cancel:2131361816
+ string:card:2131361817
+ string:cart:2131361818
+ string:cart_empty:2131361819
+ string:cash:2131361820
+ string:catalog:2131361821
+ string:categories_title:2131361822
+ string:category:2131361823
+ string:category_breakdown:2131361824
+ string:category_hint:2131361825
+ string:category_required:2131361826
+ string:choose_photo:2131361827
+ string:close_drawer:2131361828
+ string:close_sheet:2131361829
+ string:complete_sale:2131361831
+ string:cost_price:2131361832
+ string:credit:2131361833
+ string:credit_limit:2131361834
+ string:credit_limit_label:2131361835
+ string:credit_needs_customer:2131361836
+ string:currency:2131361837
+ string:currency_label:2131361838
+ string:customer:2131361839
+ string:customer_groups:2131361840
+ string:customers:2131361842
+ string:default_error_message:2131361843
+ string:default_popup_window_title:2131361844
+ string:delete:2131361846
+ string:delete_category_blocked:2131361847
+ string:delete_confirm:2131361848
+ string:description:2131361851
+ string:discount_pct:2131361853
+ string:discount_rs:2131361854
+ string:done:2131361855
+ string:edit:2131361857
+ string:english:2131361858
+ string:footer_saved:2131361859
+ string:in_progress:2131361863
+ string:indeterminate:2131361865
+ string:item_name:2131361866
+ string:item_saved:2131361867
+ string:items_count:2131361868
+ string:items_total:2131361869
+ string:language:2131361870
+ string:language_changed:2131361871
+ string:low_stock:2131361881
+ string:low_stock_alerts:2131361882
+ string:low_stock_items:2131361883
+ string:low_stock_threshold:2131361886
+ string:m3c_bottom_sheet_collapse_description:2131361888
+ string:m3c_bottom_sheet_dismiss_description:2131361889
+ string:m3c_bottom_sheet_drag_handle_description:2131361890
+ string:m3c_bottom_sheet_expand_description:2131361891
+ string:m3c_bottom_sheet_pane_title:2131361892
+ string:m3c_dialog:2131361924
+ string:m3c_dropdown_menu_collapsed:2131361925
+ string:m3c_dropdown_menu_expanded:2131361926
+ string:m3c_dropdown_menu_toggle:2131361927
+ string:name_required:2131361945
+ string:navigation_menu:2131361946
+ string:new_category:2131361947
+ string:new_item:2131361950
+ string:new_sale:2131361951
+ string:no_items:2131361952
+ string:no_items_hint:2131361953
+ string:no_low_stock:2131361954
+ string:no_report_data:2131361956
+ string:no_sales:2131361957
+ string:no_sales_hint:2131361958
+ string:not_selected:2131361959
+ string:notifications:2131361960
+ string:orders_today:2131361961
+ string:out_of_stock:2131361962
+ string:payment_method:2131361964
+ string:pdf_failed:2131361965
+ string:phone:2131361966
+ string:photo:2131361967
+ string:price_required:2131361968
+ string:quantity:2131361972
+ string:quick_actions:2131361973
+ string:range_end:2131361974
+ string:range_start:2131361975
+ string:receipt_business:2131361976
+ string:receipt_contact:2131361977
+ string:receipt_date:2131361978
+ string:receipt_discount:2131361979
+ string:receipt_footer:2131361980
+ string:receipt_items:2131361981
+ string:receipt_number:2131361982
+ string:receipt_payment:2131361983
+ string:receipt_subtotal:2131361984
+ string:receipt_tax:2131361985
+ string:receipt_thanks:2131361986
+ string:receipt_thanks_label:2131361987
+ string:receipt_total:2131361988
+ string:refund:2131361989
+ string:refund_confirm:2131361990
+ string:refund_reason:2131361991
+ string:refund_sale:2131361992
+ string:refunded:2131361994
+ string:remove:2131361995
+ string:report_all:2131361996
+ string:report_discount:2131361997
+ string:report_last30:2131361998
+ string:report_month:2131361999
+ string:report_orders:2131362000
+ string:report_profit:2131362001
+ string:report_refunds:2131362002
+ string:report_revenue:2131362003
+ string:report_today:2131362004
+ string:report_week:2131362005
+ string:reports:2131362006
+ string:sale_complete:2131362007
+ string:sale_detail:2131362008
+ string:sale_saved:2131362009
+ string:sales_history:2131362010
+ string:save:2131362011
+ string:scan:2131362012
+ string:search_items:2131362014
+ string:select_category:2131362015
+ string:selected:2131362016
+ string:selling_price:2131362017
+ string:share_receipt:2131362018
+ string:sinhala:2131362019
+ string:state_empty:2131362021
+ string:state_off:2131362022
+ string:state_on:2131362023
+ string:stock_alert:2131362025
+ string:stock_change:2131362026
+ string:stock_qty:2131362027
+ string:subtotal:2131362028
+ string:switch_role:2131362029
+ string:tab:2131362030
+ string:tab_home:2131362031
+ string:tab_inventory:2131362032
+ string:tab_pos:2131362033
+ string:tab_sales:2131362034
+ string:tab_settings:2131362035
+ string:take_photo:2131362036
+ string:template_percent:2131362037
+ string:today_sales:2131362042
+ string:top_sellers:2131362045
+ string:total:2131362046
+ string:unit:2131362048
+ string:unit_box:2131362049
+ string:unit_g:2131362050
+ string:unit_kg:2131362051
+ string:unit_m:2131362052
+ string:unit_pack:2131362053
+ string:unit_pair:2131362054
+ string:unit_pcs:2131362055
+ string:unit_set:2131362056
+ string:units:2131362057
+ string:update:2131362058
+ string:upi:2131362059
+ string:version:2131362062
+ string:view_all:2131362063
+ string:walk_in:2131362064
+ string:zxing_app_name:2131362065
+ string:zxing_button_ok:2131362066
+ string:zxing_msg_camera_framework_bug:2131362067
+ style:DialogWindowTheme:2131427328
+ style:EdgeToEdgeFloatingDialogWindowTheme:2131427330
+ style:TextAppearance_Compat_Notification:2131427333
+ style:TextAppearance_Compat_Notification_Info:2131427334
+ style:TextAppearance_Compat_Notification_Line2:2131427335
+ style:TextAppearance_Compat_Notification_Time:2131427336
+ style:TextAppearance_Compat_Notification_Title:2131427337
+ style:Theme_CraftKart:2131427338
+ style:zxing_CaptureTheme:2131427341
+ xml:file_paths:2131558400
+Unused resources are: 
+ color:vector_tint_color:2130837511
+ color:vector_tint_theme_color:2130837512
+ color:zxing_custom_possible_result_points:2130837513
+ color:zxing_custom_result_view:2130837514
+ color:zxing_custom_viewfinder_laser:2130837515
+ color:zxing_custom_viewfinder_mask:2130837516
+ dimen:compat_notification_large_icon_max_height:2130903045
+ dimen:compat_notification_large_icon_max_width:2130903046
+ drawable:ic_call_answer:2130968577
+ drawable:ic_call_answer_low:2130968578
+ drawable:ic_call_answer_video:2130968579
+ drawable:ic_call_answer_video_low:2130968580
+ drawable:ic_call_decline:2130968581
+ drawable:ic_call_decline_low:2130968582
+ id:async:2131034151
+ id:centerCrop:2131034153
+ id:chronometer:2131034154
+ id:coil_request_manager:2131034155
+ id:edit_text_id:2131034159
+ id:fitCenter:2131034160
+ id:fitXY:2131034161
+ id:forever:2131034162
+ id:hide_ime_id:2131034164
+ id:info:2131034168
+ id:italic:2131034171
+ id:line1:2131034172
+ id:line3:2131034173
+ id:nav_controller_view_tag:2131034174
+ id:normal:2131034175
+ id:right_icon:2131034181
+ id:right_side:2131034182
+ id:tag_on_receive_content_listener:2131034188
+ id:tag_on_receive_content_mime_types:2131034189
+ id:tag_transition_group:2131034192
+ id:time:2131034198
+ id:zxing_back_button:2131034205
+ integer:status_bar_notification_info_maxnum:2131099649
+ layout:custom_dialog:2131165184
+ string:app_version:2131361803
+ string:appearance:2131361804
+ string:balance:2131361805
+ string:collect_payment:2131361830
+ string:customer_name:2131361841
+ string:define_zxingandroidembedded:2131361845
+ string:delete_customer_confirm:2131361849
+ string:delete_group_blocked:2131361850
+ string:discount:2131361852
+ string:dropdown_menu:2131361856
+ string:group_discount_pct:2131361860
+ string:group_discount_pct_label:2131361861
+ string:group_name:2131361862
+ string:in_stock:2131361864
+ string:library_zxingandroidembedded_author:2131361872
+ string:library_zxingandroidembedded_authorWebsite:2131361873
+ string:library_zxingandroidembedded_isOpenSource:2131361874
+ string:library_zxingandroidembedded_libraryDescription:2131361875
+ string:library_zxingandroidembedded_libraryName:2131361876
+ string:library_zxingandroidembedded_libraryVersion:2131361877
+ string:library_zxingandroidembedded_libraryWebsite:2131361878
+ string:library_zxingandroidembedded_licenseId:2131361879
+ string:library_zxingandroidembedded_repositoryLink:2131361880
+ string:low_stock_notification_text:2131361884
+ string:low_stock_notification_title:2131361885
+ string:loyalty_points:2131361887
+ string:m3c_date_input_headline:2131361893
+ string:m3c_date_input_headline_description:2131361894
+ string:m3c_date_input_invalid_for_pattern:2131361895
+ string:m3c_date_input_invalid_not_allowed:2131361896
+ string:m3c_date_input_invalid_year_range:2131361897
+ string:m3c_date_input_label:2131361898
+ string:m3c_date_input_no_input_description:2131361899
+ string:m3c_date_input_title:2131361900
+ string:m3c_date_picker_headline:2131361901
+ string:m3c_date_picker_headline_description:2131361902
+ string:m3c_date_picker_navigate_to_year_description:2131361903
+ string:m3c_date_picker_no_selection_description:2131361904
+ string:m3c_date_picker_scroll_to_earlier_years:2131361905
+ string:m3c_date_picker_scroll_to_later_years:2131361906
+ string:m3c_date_picker_switch_to_calendar_mode:2131361907
+ string:m3c_date_picker_switch_to_day_selection:2131361908
+ string:m3c_date_picker_switch_to_input_mode:2131361909
+ string:m3c_date_picker_switch_to_next_month:2131361910
+ string:m3c_date_picker_switch_to_previous_month:2131361911
+ string:m3c_date_picker_switch_to_year_selection:2131361912
+ string:m3c_date_picker_title:2131361913
+ string:m3c_date_picker_today_description:2131361914
+ string:m3c_date_picker_year_picker_pane_title:2131361915
+ string:m3c_date_range_input_invalid_range_input:2131361916
+ string:m3c_date_range_input_title:2131361917
+ string:m3c_date_range_picker_day_in_range:2131361918
+ string:m3c_date_range_picker_end_headline:2131361919
+ string:m3c_date_range_picker_scroll_to_next_month:2131361920
+ string:m3c_date_range_picker_scroll_to_previous_month:2131361921
+ string:m3c_date_range_picker_start_headline:2131361922
+ string:m3c_date_range_picker_title:2131361923
+ string:m3c_search_bar_search:2131361928
+ string:m3c_snackbar_dismiss:2131361929
+ string:m3c_suggestions_available:2131361930
+ string:m3c_time_picker_am:2131361931
+ string:m3c_time_picker_hour:2131361932
+ string:m3c_time_picker_hour_24h_suffix:2131361933
+ string:m3c_time_picker_hour_selection:2131361934
+ string:m3c_time_picker_hour_suffix:2131361935
+ string:m3c_time_picker_hour_text_field:2131361936
+ string:m3c_time_picker_minute:2131361937
+ string:m3c_time_picker_minute_selection:2131361938
+ string:m3c_time_picker_minute_suffix:2131361939
+ string:m3c_time_picker_minute_text_field:2131361940
+ string:m3c_time_picker_period_toggle_description:2131361941
+ string:m3c_time_picker_pm:2131361942
+ string:m3c_tooltip_long_press_label:2131361943
+ string:m3c_tooltip_pane_description:2131361944
+ string:new_customer:2131361948
+ string:new_group:2131361949
+ string:no_phone:2131361955
+ string:payment_amount:2131361963
+ string:print_coming_soon:2131361969
+ string:print_later:2131361970
+ string:purchase_history:2131361971
+ string:refund_success:2131361993
+ string:scan_hint:2131362013
+ string:spent:2131362020
+ string:status_bar_notification_info_overflow:2131362024
+ string:theme:2131362038
+ string:theme_dark:2131362039
+ string:theme_light:2131362040
+ string:theme_system:2131362041
+ string:tooltip_description:2131362043
+ string:tooltip_label:2131362044
+ string:total_sales:2131362047
+ string:vat:2131362060
+ string:vat_rate:2131362061
+ style:FloatingDialogTheme:2131427331
+ style:FloatingDialogWindowTheme:2131427332
