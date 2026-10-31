@@ -1,0 +1,134 @@
+CRAFTKART - MEDIA SUPPORT FILE
+Generated: 2026-10-31  |  App version: 1.4.3
+Regenerate this file after every modification.
+
+============================================================
+1. TITLE
+============================================================
+CraftKart - Handmade Shop Inventory & POS
+
+============================================================
+2. SHORT DESCRIPTION
+============================================================
+CraftKart is a simple inventory + point-of-sale app for handmade
+businesses. Track products and customers, sell with cash, card, UPI or
+credit, and share PDF receipts - all offline on your phone.
+
+============================================================
+3. LONG DESCRIPTION
+============================================================
+CraftKart is built for small handmade businesses. Manage your full
+product catalog with photos, organize items into categories, and keep a
+live eye on stock levels with automatic low-stock alerts. Scan barcodes
+and QR codes with your camera to add items to a sale or file a new
+product in seconds, and adjust stock levels with one tap - add or remove
+quantities with a reason logged automatically.
+
+Selling is fast and friendly: search or browse items, tap to add to cart,
+apply a discount, pick cash, card, UPI or credit for a regular customer,
+and complete the sale. Stock updates automatically and every sale is
+saved to your sales history with a shareable PDF receipt.
+
+Reports show today, this week, this month, last 30 days or all-time
+revenue, orders, average sale and profit, plus top sellers and a category
+breakdown. Keep customers on file with credit balances, loyalty points
+and group discounts, and issue refunds that restore stock in one tap.
+
+Everything is stored safely on your phone - no internet needed. Works in
+English and Sinhala. Perfect for greeting cards, bookmarks, gift tags and
+any handcrafted product.
+
+Who it is for: crafters, home-based makers, gift shops and small stalls
+that sell handmade goods without a full retail system.
+
+============================================================
+4. FACEBOOK POST TEXT
+============================================================
+Running a handmade shop? Say hello to CraftKart - your pocket inventory
+and POS. Add your greeting cards, bookmarks and craft items with photos,
+watch stock so you never run out, and scan barcodes to add items to a
+sale in a blink. Adjust stock in one tap and sell fast with cash, card,
+UPI or credit, share PDF receipts, and see your real numbers with
+built-in reports. Manage regular customers with credit and loyalty
+points, and refund in one tap with automatic stock restore. Everything is
+saved offline on your phone, in English or Sinhala. Simple enough to
+learn in one minute. Try it today!
+
+============================================================
+5. SOCIAL MEDIA TAGS (12)
+============================================================
+#CraftKart #HandmadeShop #POS #InventoryManagement #SmallBusiness
+#GreetingCards #Bookmarks #CraftBusiness #SriLanka #ShopOwner
+#PointOfSale #HandmadeBusiness
+
+============================================================
+6. AI IMAGE PROMPTS (5)
+============================================================
+1. "Friendly flat-lay photo of handmade greeting cards and tassel
+   bookmarks on a warm cream table, wooden craft tools, soft morning
+   light, cozy artisan workshop feel, warm terracotta and saffron
+   colors."
+
+2. "A cheerful smartphone mockup showing a colorful inventory and POS
+   app with a barcode scanner overlay and a customer list, floating on
+   a background of colorful handmade cards and ribbons, pastel craft
+   aesthetic."
+
+3. "Top-down shot of a small business counter with a phone running a
+   POS checkout showing a receipt, stack of greeting cards, a cash box,
+   and a small card payment terminal, bright warm lighting."
+
+4. "Hand-drawn style illustration of a shopkeeper handing a receipt to
+   a customer, surrounded by floating greeting cards, bookmarks and gift
+   tags, warm cream and terracotta palette, flat vector art."
+
+5. "Split-screen design: left shows a messy craft shelf, right shows the
+   same shelf tidy with stock labels and a rising sales graph,
+   symbolizing organized inventory and growth, playful illustration
+   style, soft colors."
+
+============================================================
+7. PLAY STORE FEATURE GRAPHIC (1024x500) PROMPTS
+============================================================
+Brand palette: cream #FDF6EE, terracotta #A6533B,
+dark terracotta #7C3A28, saffron #F2C14E.
+
+PROMPT A - Primary (phone + handmade products)
+"Wide horizontal Google Play feature graphic, exactly 1024x500 px,
+2.05:1 aspect ratio, flat vector illustration style with soft depth and
+subtle grain. Warm cream background (#FDF6EE). On the right, a modern
+Android smartphone shown straight-on displaying a clean point-of-sale
+screen with a product grid, a cart summary and a Pay button (no readable
+small text, simplified UI blocks only). On the left, a tasteful cluster
+of handmade craft products - woven baskets, ceramic mugs, hand-dyed
+fabric, a small potted plant, wooden spoons - in terracotta (#A6533B),
+dark terracotta (#7C3A28) and saffron (#F2C14E) accents. Behind the
+phone, soft rounded geometric shapes and a faint receipt/barcode motif.
+Large crisp wordmark CraftKart in bold rounded sans-serif terracotta near
+top-left, with a small tagline Handmade Shop - Inventory - POS
+underneath in dark terracotta. Balanced negative space, high contrast,
+crisp vector edges, premium app-store marketing banner, no clutter. No
+third-party logos, no phone brand marks, no watermarks, no mock OS
+icons."
+
+PROMPT B - Alternate (product-led, no phone)
+"1024x500 Play Store feature banner, warm cream background, isometric
+flat illustration of a handmade craft shop counter: shelves of baskets,
+ceramics, candles and textiles in terracotta and saffron, a small tablet
+at the counter showing a simplified sales dashboard, floating receipt
+and shopping-bag icons, headline CraftKart in bold terracotta upper-left
+with subtitle Sell handmade. Track stock. Get paid., generous margins,
+soft shadows, clean vector style, no small text, no logos."
+
+NEGATIVE PROMPT (avoid)
+"blurry, low contrast, dark background, photorealistic humans, cluttered
+collage, tiny illegible text, misspelled text, multiple phones,
+copyrighted characters, brand logos, gradients that reduce legibility,
+thin fonts, borders or cut-off elements at edges, transparent background."
+
+TECHNICAL NOTES
+- Exact size 1024x500 px, 24-bit PNG or JPEG, no alpha channel.
+- Keep all text inside the central safe area; Play crops edges in some
+  placements.
+- Text height >= 48 px, semibold or bolder; never thin fonts.
+- Avoid device brand logos and OS chrome to stay policy-safe.

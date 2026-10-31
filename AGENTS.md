@@ -25,6 +25,7 @@ Package: `lk.craftkart.pos` · App name: **CraftKart** · Currency: LKR (Rs)
 | 6   | 1.4.1   | 2026-08-12 | CRITICAL FIX: app crashed at launch ("keeps closing") for installs upgrading from a pre-v4 database. Room migration validation failed because `MIGRATION_2_3` rebuilt `sales` with a foreign key + extra index the `Sale` entity doesn't declare (and its `RENAME` rewired `sale_items` FK to a dropped table). Fix: `MIGRATION_2_3` now only creates the customer tables (`MIGRATION_1_2` already adds the needed sales columns); removed the stray `index_stock_adjustments_itemId` from `MIGRATION_3_4`. Verified against `4.json` (schema matches, data preserved). DB stays v4, identity hash unchanged. Release APK `releases/CraftKart-v1.4.1.apk`. |
 | 7   | 1.4.2   | 2026-10-28 | Play Store prep: version bump, generated store graphics (512x512 icon, 1024x500 feature), phone screenshots, privacy policy via GitHub Pages, built release AAB. No functional changes. Release AAB `app/build/outputs/bundle/release/app-release.aab`. |
 | 8   | 1.4.3   | 2026-10-31 | Play compliance + security. **API 36 migration** (compileSdk/targetSdk 35 → 36) required since Play's Aug 31 2026 deadline; AGP 8.7.3 → 8.12.0, Gradle 8.9 → 8.14.3, Kotlin 2.0.21 → 2.1.20, KSP 2.0.21-1.0.28 → 2.1.20-2.0.1 with `ksp.useKSP2=false` (Room 2.6.1 is KSP1-only). Fixed `group_discount_pct_label` format string (`%1$d&#37;` → `%1$d%%`) in EN + SI. Added `.gitignore`; untracked `.gradle/`, `app/build/`, `local.properties`, `keystore.properties`, `keystore/*.jks` (files kept on disk). Restored `local.properties` pointing to `E:\AITools\android-sdk`. Removed stray tracked `cmd.exe` (byte-identical copy of the Windows command interpreter, accidentally committed) and deleted regenerable build caches. Release APK `releases/CraftKart-v1.4.3.apk`, AAB `releases/CraftKart-v1.4.3.aab`. |
+| 9   | 1.4.3   | 2026-10-31 | Release hygiene + marketing support. Removed superseded release artifacts from `releases/` and git tracking (kept only latest v1.4.3 APK + AAB), published the v1.4.3 GitHub release, and deleted the older v1.4.2 GitHub release + tag. Consolidated marketing file to `medial_support.txt` (global convention, replaces `media_support.txt`) and regenerated its content for v1.4.3, adding Play Store 1024x500 feature-graphic prompts (primary, alternate, negative, technical specs) matched to the brand palette. No app code or DB changes. |
 
 ## Build Notes
 - `local.properties` (git-ignored) sets `sdk.dir=E:\AITools\android-sdk`; JDK 17 at
@@ -42,6 +43,6 @@ Package: `lk.craftkart.pos` · App name: **CraftKart** · Currency: LKR (Rs)
 ## Update Process
 1. Make changes → bump `versionCode`/`versionName` in `app/build.gradle.kts`.
 2. Add a new row to the Modification Log above (increment Mod number).
-3. Regenerate `media_support.txt` content for the new version.
+3. Regenerate `medial_support.txt` content for the new version.
 4. Rebuild: `gradlew.bat :app:assembleRelease` and `:app:bundleRelease`;
    copy APK + AAB to `releases/`.
