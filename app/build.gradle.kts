@@ -14,14 +14,14 @@ val keystoreProperties = Properties().apply {
 
 android {
     namespace = "lk.craftkart.pos"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "lk.craftkart.pos"
         minSdk = 26
-        targetSdk = 35
-        versionCode = 8
-        versionName = "1.4.2"
+        targetSdk = 36
+        versionCode = 9
+        versionName = "1.4.3"
         vectorDrawables { useSupportLibrary = true }
     }
 

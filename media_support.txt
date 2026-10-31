@@ -1,5 +1,5 @@
 CRAFTKART - MEDIA SUPPORT FILE
-Generated: 2026-10-28  |  App version: 1.4.2
+Generated: 2026-10-31  |  App version: 1.4.3
 Regenerate this file after every modification.
 
 ============================================================

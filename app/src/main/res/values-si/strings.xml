@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">CraftKart</string>
 
@@ -148,7 +148,7 @@
     <string name="customer_groups">පාරිභෝගික කණ්ඩායම්</string>
     <string name="group_name">කණ්ඩායම් නම</string>
     <string name="group_discount_pct">කණ්ඩායම් වට්ටම (&#37;)</string>
-    <string name="group_discount_pct_label">වට්ටම %1$d&#37;</string>
+    <string name="group_discount_pct_label">වට්ටම %1$d%%</string>
     <string name="new_group">නව කණ්ඩායම</string>
     <string name="delete_group_blocked">මුලින් පාරිභෝගිකයින් කණ්ඩායමෙන් ඉවත් කරන්න.</string>
     <string name="delete_customer_confirm">මෙම පාරිභෝගිකයා සහ ඉතිහාසය මකන්නද?</string>
